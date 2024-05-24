@@ -506,6 +506,7 @@
     <Compile Include="Automation\ICS\BusinessPartners\BankAccounts.cs" />
     <Compile Include="Automation\ICS\BusinessPartners\BPRetentions.cs" />
     <Compile Include="Automation\ICS\ControlDesk\CollectionsCD.cs" />
+    <Compile Include="Automation\ICS\ControlDesk\CreateConfigurationItems.cs" />
     <Compile Include="Automation\ICS\ControlDesk\CreateTicketFromBPM.cs" />
     <Compile Include="Automation\ICS\ControlDesk\ResponsePlans.cs" />
     <Compile Include="Automation\ICS\ControlDesk\SlaManual.cs" />
