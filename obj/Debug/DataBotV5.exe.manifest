@@ -127,14 +127,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DataBotV5.exe" size="2447872">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DataBotV5.exe" size="2447360">
       <assemblyIdentity name="DataBotV5" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>JWRg5Y5mi/vSkK/H5pz41mK9m3unnn2AFpveogGPKrw=</dsig:DigestValue>
+        <dsig:DigestValue>P10tyuswUPJcO9B+nyn7C2dEyf1o/4dU+EkWrxpywjA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1314,13 +1314,13 @@
       <dsig:DigestValue>V4a2JWxf5U1TiaqdpsiT3n6YKPt7lfwUNwmxs2Ed6Wg=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="DataBotV5.pdb" size="3145216">
+  <file name="DataBotV5.pdb" size="3139072">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>Dr/nti60bg3TldfFmSej6hNW4bX9LKy7Hk+tZv3QgJQ=</dsig:DigestValue>
+      <dsig:DigestValue>CdrO3JZXUTbNj6K5WGeJpwdWH43Jf4RrIGo5ykAG9dU=</dsig:DigestValue>
     </hash>
   </file>
   <file name="DataBotV5.sln" size="1122">
