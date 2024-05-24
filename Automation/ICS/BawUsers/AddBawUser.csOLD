@@ -1,0 +1,295 @@
+﻿using DataBotV5.Logical.ActiveDirectory;
+using DataBotV5.Logical.MicrosoftTools;
+using System.Collections.ObjectModel;
+using DataBotV5.Logical.Processes;
+using OpenQA.Selenium.Support.UI;
+using System.Collections.Generic;
+using DataBotV5.Data.Credentials;
+using DataBotV5.Data.Database;
+using DataBotV5.Logical.Web;
+using DataBotV5.App.Global;
+using DataBotV5.Logical.Mail;
+using DataBotV5.Data.Stats;
+using DataBotV5.Data.Root;
+using OpenQA.Selenium;
+using System.Data;
+using System;
+
+namespace DataBotV5.Automation.ICS.BawUsers
+{
+    /// <summary>
+    /// Clase ICS Automation encargada de agregar usuarios BAW.
+    /// </summary>
+    class AddBawUser
+    {
+        MailInteraction mail = new MailInteraction();
+        ConsoleFormat console = new ConsoleFormat();
+        ActiveDirectory ad = new ActiveDirectory();
+        WebInteraction sel = new WebInteraction();
+        ValidateData val = new ValidateData();
+        Credentials cred = new Credentials();
+        MsExcel excel = new MsExcel();
+        Rooting root = new Rooting();
+        Stats stats = new Stats();
+        CRUD crud = new CRUD();
+        string respFinal = "";
+        Log log = new Log();
+
+
+        private IWebDriver chrome;
+
+        public void Main()
+        {
+            List<string> validMails = new List<string>();
+            DataTable validMailsDt = crud.Select("SELECT `mail` FROM `authMails`", "add_baw_user_db");
+            foreach (DataRow fila in validMailsDt.Rows)
+                validMails.Add(fila["mail"].ToString().ToUpper());
+
+            if (mail.GetAttachmentEmail("Solicitudes Usuarios BAW", "Procesados", "Procesados Usuarios BAW"))
+            {
+                DataTable excelDt = excel.GetExcel(root.FilesDownloadPath + "\\" + root.ExcelFile);
+                ProcessUsers(excelDt);
+
+                console.WriteLine("Creando estadísticas...");
+                root.requestDetails = respFinal;
+
+                using (Stats stats = new Stats())
+                {
+                    stats.CreateStat();
+                }
+            }
+        }
+        private void ProcessUsers(DataTable excel)
+        {
+            DataTable emailResponse = new DataTable();
+
+            emailResponse.Columns.Add("Usuario");
+            emailResponse.Columns.Add("Respuesta");
+
+            BawIni();
+            Login("deadmin", cred.BawAdmin);
+
+            foreach (DataRow row in excel.Rows)
+            {
+                DataRow tempRow = emailResponse.NewRow();
+                string process = GetProcess(row["Proceso en el cual agregar usuario"].ToString().Trim());
+                string newUser = row["Usuario que se desea agregar"].ToString().Trim();
+                string refUser = row["Usuario con mismos permisos "].ToString().Trim();
+
+                tempRow["Usuario"] = newUser;
+
+                if (newUser != "" && refUser != "" && process != "")
+                {
+                    string res;
+                    if (ad.ExistAD(newUser))
+                    {
+                        if (ad.ExistAD(refUser))
+                        {
+                            GotoProcess(process);
+                            List<string> newGroups = AddUserToGroup(newUser, refUser);
+                            res = String.Join(", ", newGroups.ToArray());
+                        }
+                        else
+                        {
+                            //el ref user no existe
+                            res = "El Usuario " + refUser + " no existe";
+                        }
+                    }
+                    else
+                    {
+                        //el new user no existe
+                        res = "El Usuario " + newUser + " no existe";
+                    }
+
+                    tempRow["Respuesta"] = res;
+                    log.LogDeCambios("Creacion", root.BDProcess, root.BDUserCreatedBy, "Agregar Usuarios BAW", newUser, res);
+                    respFinal = respFinal + "\\n" + "Agregar Usuarios BAW " + " " + newUser + " "+ res;
+
+                }
+
+                emailResponse.Rows.Add(tempRow);
+
+            }
+            ChromeClose();
+
+            string msg = "En la siguiente tabla se muestra los grupos de BAW a los cuales se agregaron los usuarios solicitados<br><br>";
+
+            msg += val.ConvertDataTableToHTML(emailResponse);
+
+            mail.SendMail(msg, root.BDUserCreatedBy, root.Subject, 1, new string[] { "atrigueros@gbm.net" });
+        }
+
+        private void BawIni()
+        {
+            chrome = sel.NewSeleniumChromeDriver();
+            chrome.Navigate().GoToUrl("https://prod-ihs-03.gbm.net/ProcessAdmin/login.jsp");
+        }
+        private void Login(string user, string pass)
+        {
+            chrome.FindElement(By.Id("username")).SendKeys(user);
+            chrome.FindElement(By.Name("j_password")).SendKeys(pass);
+            chrome.FindElement(By.Id("log_in")).Submit();
+            new WebDriverWait(chrome, new TimeSpan(0, 0, 10)).Until(SeleniumExtras.WaitHelpers.ExpectedConditions.ElementIsVisible(By.Id("gwtcommon.client.pipesMenu.link_0")));
+        }
+        private void GotoProcess(string proceso)
+        {
+            #region INSTALLED APPS
+            new WebDriverWait(chrome, new TimeSpan(0, 0, 10)).Until(SeleniumExtras.WaitHelpers.ExpectedConditions.ElementIsVisible(By.Id("gwtcommon.client.pipesMenu.link_0")));
+            ReadOnlyCollection<IWebElement> mainLinks = chrome.FindElements(By.Id("gwtcommon.client.pipesMenu.link_0"));
+            foreach (IWebElement mainLink in mainLinks)
+            {
+                if (mainLink.Text == "Installed Apps")
+                {
+                    mainLink.Click();
+                    break;
+                }
+            }
+            #endregion
+
+            #region CONTRATOS
+            new WebDriverWait(chrome, new TimeSpan(0, 0, 10)).Until(SeleniumExtras.WaitHelpers.ExpectedConditions.ElementIsVisible(By.LinkText(proceso)));
+            chrome.FindElement(By.LinkText(proceso)).Click();
+            new WebDriverWait(chrome, new TimeSpan(0, 0, 10)).Until(SeleniumExtras.WaitHelpers.ExpectedConditions.ElementIsVisible(By.Id("gwtcommon.client.abstractRepositoryPanel.flowPanel_i3"))); //esperar las opciones del panel de la derecha
+            #endregion
+
+            #region TEAM BIDINGS
+            mainLinks = chrome.FindElements(By.Id("gwtcommon.client.pipesMenu.link_0"));
+            foreach (IWebElement mainLink in mainLinks)
+            {
+                if (mainLink.Text == "Team Bindings")
+                {
+                    mainLink.Click(); //click en team bidings
+                    break;
+                }
+            }
+            new WebDriverWait(chrome, new TimeSpan(0, 0, 10)).Until(SeleniumExtras.WaitHelpers.ExpectedConditions.ElementIsVisible(By.XPath("//div[@class=\"addPeopleHyperlink\"]"))); //esperar el primer elemento que tenga esa clase
+            #endregion
+        }
+        private List<string> AddUserToGroup(string newUser, string refUser)
+        {
+            #region FOR POR TODOS LOS GRUPOS
+
+            //Mover el footer ya que intecepta varios clicks
+            IJavaScriptExecutor js = (IJavaScriptExecutor)chrome;
+            IWebElement footer = chrome.FindElement(By.Id("footer"));
+            js.ExecuteScript("arguments[0].style.top = '1000000px'", footer);
+
+            List<string> groupList = new List<string>();
+
+            ReadOnlyCollection<IWebElement> groups = chrome.FindElements(By.XPath("//div[@class=\"roleBindingRight\"]"));
+
+            foreach (IWebElement group in groups)
+            {
+                if (group.Text.Contains(refUser))//CUIDADO SI ESTA VACIO
+                {
+                    #region ADD USER
+                    ReadOnlyCollection<IWebElement> miniLinks = group.FindElements(By.XPath(".//div[@class=\"addPeopleHyperlink\"]"));
+
+                    foreach (IWebElement miniLink in miniLinks)
+                    {
+                        if (miniLink.Text == "Add Users")
+                        {
+                            try
+                            {
+                                miniLink.Click();
+                            }
+                            catch (ElementClickInterceptedException)
+                            {
+                                //mover mas arriba y ahora si click
+                                chrome.FindElement(By.Id("gwtcommon.client.contentContainer.scrollPanel_0")).Click();
+
+                                OpenQA.Selenium.Interactions.Actions scrollDown = new OpenQA.Selenium.Interactions.Actions(chrome);
+                                scrollDown.KeyDown(Keys.Control).SendKeys(Keys.End).Perform();
+                                scrollDown.KeyDown(Keys.Control).SendKeys(Keys.End).Perform();
+                                scrollDown.KeyDown(Keys.Control).SendKeys(Keys.End).Perform();
+                                //System.Threading.Thread.Sleep(
+                                //    );
+                                miniLink.Click();
+                            }
+                            groupList.Add(AddModal(newUser));
+                        }
+                    }
+                    #endregion
+                }
+            }
+
+            return groupList;
+
+            #endregion
+        }
+        private string AddModal(string newUser)
+        {
+            #region MODAL
+
+            string group = "";
+
+            //se abre un modal "ADD PEOPLE TO...."
+            new WebDriverWait(chrome, new TimeSpan(0, 0, 10)).Until(SeleniumExtras.WaitHelpers.ExpectedConditions.ElementIsVisible(By.Id("gwtcommon.client.addUsersAndGroupsPopup.textBox_0")));
+            chrome.FindElement(By.Id("gwtcommon.client.addUsersAndGroupsPopup.textBox_0")).Clear();
+            chrome.FindElement(By.Id("gwtcommon.client.addUsersAndGroupsPopup.textBox_0")).Click();
+            chrome.FindElement(By.Id("gwtcommon.client.addUsersAndGroupsPopup.textBox_0")).SendKeys(newUser);
+            if (chrome.FindElement(By.Id("gwtcommon.client.addUsersAndGroupsPopup.textBox_0")).GetAttribute("value") != newUser)
+            {
+                System.Threading.Thread.Sleep(3000);
+                chrome.FindElement(By.Id("gwtcommon.client.addUsersAndGroupsPopup.textBox_0")).SendKeys(newUser);
+            }
+
+            System.Threading.Thread.Sleep(3000);
+
+            //esperar los resultados de la tabla  id = gwtcomm on.client.addUsersAndGroupsPopup.userTable_0
+            bool exist = false;
+            try
+            {
+                new WebDriverWait(chrome, new TimeSpan(0, 0, 10)).Until(SeleniumExtras.WaitHelpers.ExpectedConditions.ElementIsVisible(By.Id("gwtcommon.client.addUsersAndGroupsPopup.userTable_0")));
+                exist = true;
+            }
+            catch (Exception) { }
+
+
+            if (exist)
+            {
+                IWebElement checkbox = chrome.FindElement(By.XPath("//*[@id=\"gwtcommon.client.addUsersAndGroupsPopup.userTable_0\"]/tbody/tr[1]/td[3]/span/input"));
+
+                if (checkbox.GetAttribute("checked") == "true")
+                {
+                    //Guardar
+                    ReadOnlyCollection<IWebElement> buttons = chrome.FindElements(By.XPath("//div[@class=\"buttonText\"]"));
+                    foreach (IWebElement button in buttons)
+                    {
+                        if (button.Text == "Add Selected")
+                        {
+                            group = chrome.FindElement(By.XPath("//*[contains(@title, 'Add people to')]")).Text.Replace("Add people to", "").Replace("Team", "").Trim();
+                            console.WriteLine("Se añadio a: " + newUser + " al grupo: " + group);
+                            button.Click();   //guardar
+                        }
+                    }
+                }
+                else
+                {
+                    //mensaje no se encontró mas de un usuario o algo asi
+
+                    //Se debería hacer un for y buscar el exacto
+
+                    console.WriteLine("Se encontró mas de un usuario");
+                    group = "Se encontró mas de un usuario";
+                }
+            }
+
+            return group;
+
+            #endregion
+        }
+        private void ChromeClose()
+        {
+            chrome.Close();
+            chrome.Quit();
+        }
+        private string GetProcess(string process)
+        {
+            DataTable dt = crud.Select("SELECT `bawName` FROM `processesNames` WHERE excelName = '" + process + "'", "add_baw_user_db");
+            process = dt.Rows[0]["bawName"].ToString();
+
+            return process;
+        }
+    }
+}

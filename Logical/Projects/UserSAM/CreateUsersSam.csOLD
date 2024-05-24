@@ -1,0 +1,300 @@
+﻿using OpenQA.Selenium.Interactions;
+using DataBotV5.Logical.Processes;
+using OpenQA.Selenium.Support.UI;
+using DataBotV5.Data.Credentials;
+using DataBotV5.Logical.Web;
+using OpenQA.Selenium;
+using System;
+
+namespace DataBotV5.Logical.Projects.UserSAM
+{
+    /// <summary>
+    /// Clase Logical encargada de crear usuarios en Sam.
+    /// </summary>
+    class CreateUsersSam
+    {
+        ProcessInteraction proc = new ProcessInteraction();
+        WebInteraction sel = new WebInteraction();
+        Credentials cred = new Credentials();
+
+        public string CreateUserFusion(string name, string lastName, string completName, string email, string pass)
+        {
+            string response = "";
+
+            email = email.ToLower();
+
+            IWebDriver firefox = sel.NewSeleniumChromeDriver();
+            firefox.Navigate().GoToUrl("https://gbm.fusionauth.io/admin/user/add");
+
+            #region LOGIN
+            try { new WebDriverWait(firefox, new TimeSpan(0, 0, 10)).Until(SeleniumExtras.WaitHelpers.ExpectedConditions.ElementIsVisible(By.Id("loginId"))); } catch { }
+            firefox.FindElement(By.Id("loginId")).SendKeys(cred.fusionUser);
+            firefox.FindElement(By.Id("password")).SendKeys(cred.fusionPassword);
+            firefox.FindElement(By.XPath("/html/body/main/main/div[1]/div/div/main/form/div/button")).Click();
+            #endregion
+
+            #region ADD USER
+
+            try { new WebDriverWait(firefox, new TimeSpan(0, 0, 10)).Until(SeleniumExtras.WaitHelpers.ExpectedConditions.ElementIsVisible(By.Id("user_fullName"))); } catch { }
+            firefox.FindElement(By.Id("user_fullName")).SendKeys(completName);
+            firefox.FindElement(By.Id("user_firstName")).SendKeys(name);
+            firefox.FindElement(By.Id("user_lastName")).SendKeys(lastName);
+            firefox.FindElement(By.Id("user_username")).SendKeys(email);
+            firefox.FindElement(By.Id("user_email")).SendKeys(email);
+
+            //pass
+            firefox.FindElement(By.XPath("//*[@id='sendSetPasswordEmail-form-row']/label[2]")).Click(); // el switch
+            new Actions(firefox).MoveToElement(firefox.FindElement(By.Id("confirm_user_password"))).Perform();
+            try { new WebDriverWait(firefox, new TimeSpan(0, 0, 10)).Until(SeleniumExtras.WaitHelpers.ExpectedConditions.ElementIsVisible(By.Id("user_password"))); } catch { }
+            firefox.FindElement(By.Id("user_password")).SendKeys(pass);
+            firefox.FindElement(By.Id("confirm_user_password")).SendKeys(pass);
+
+            new Actions(firefox).MoveToElement(firefox.FindElement(By.XPath("/html/body/main/header[2]"))).Perform();
+            try { new WebDriverWait(firefox, new TimeSpan(0, 0, 10)).Until(SeleniumExtras.WaitHelpers.ExpectedConditions.ElementIsVisible(By.XPath("//button[@title='Save']"))); } catch { }
+            firefox.FindElement(By.XPath("//button[@title='Save']")).Click();
+            bool alreadyExist = false;
+
+            #endregion
+
+            try
+            {
+                new WebDriverWait(firefox, new TimeSpan(0, 0, 10)).Until(SeleniumExtras.WaitHelpers.ExpectedConditions.ElementIsVisible(By.XPath("//*[@id='registrations']/a")));
+            }
+            catch
+            {
+                alreadyExist = true;
+
+                firefox.FindElement(By.XPath("//*[@id='user-search-bar']/main/input")).SendKeys(email);
+                firefox.FindElement(By.XPath("//*[@id='user-search-bar']/main/input")).SendKeys(Keys.Enter);
+
+                try { new WebDriverWait(firefox, new TimeSpan(0, 0, 10)).Until(SeleniumExtras.WaitHelpers.ExpectedConditions.ElementIsVisible(By.XPath("//*[@id='advanced-search-results']/table/tbody/tr[1]/td[3]"))); } catch { }     //username en la tabla
+
+                for (int i = 1; i < 5; i++)
+                {
+                    try { new WebDriverWait(firefox, new TimeSpan(0, 0, 10)).Until(SeleniumExtras.WaitHelpers.ExpectedConditions.ElementIsVisible(By.XPath("//*[@id='advanced-search-results']/table/tbody/tr[" + i.ToString() + "]/td[1]"))); } catch { }
+                    string emailSearch = firefox.FindElement(By.XPath("//*[@id='advanced-search-results']/table/tbody/tr[" + i.ToString() + "]/td[1]")).Text;
+                    if (emailSearch == email)
+                    {
+                        #region Editar
+                        try { firefox.FindElement(By.XPath("//*[@id='advanced-search-results']/table/tbody/tr[" + i.ToString() + "]/td[5]/a/i")).Click(); }  //el boton manage
+                        catch (Exception) { firefox.FindElement(By.XPath("//*[@id='advanced-search-results']/table/tbody/tr[" + i.ToString() + "]/td[5]/a[1]")).Click(); }
+
+                        try { new WebDriverWait(firefox, new TimeSpan(0, 0, 10)).Until(SeleniumExtras.WaitHelpers.ExpectedConditions.ElementIsVisible(By.Id("edit-user"))); } catch { }
+                        firefox.FindElement(By.Id("edit-user")).Click(); //editar
+                        System.Threading.Thread.Sleep(1000);
+
+                        try
+                        { firefox.Navigate().Refresh(); }
+                        catch (OpenQA.Selenium.UnhandledAlertException)
+                        { firefox.Navigate().Refresh(); }
+
+                        try { new WebDriverWait(firefox, new TimeSpan(0, 0, 10)).Until(SeleniumExtras.WaitHelpers.ExpectedConditions.ElementIsVisible(By.Id("editPasswordOption-form-row"))); } catch { }
+
+                        if (firefox.FindElement(By.Id("editPasswordOption")).GetAttribute("type") == "checkbox")
+                        {
+                            //toggle
+                            System.Threading.Thread.Sleep(1000);
+                            firefox.FindElement(By.XPath("//*[@id='editPasswordOption-form-row']/label[2]/span[2]")).Click();
+                        }
+                        else
+                        {
+                            //drop down
+                            SelectElement registrationApplicationId;
+                            registrationApplicationId = new SelectElement(firefox.FindElement(By.Id("editPasswordOption")));
+                            registrationApplicationId.SelectByValue("update");
+                        }
+
+                        new Actions(firefox).MoveToElement(firefox.FindElement(By.Id("confirm_user_password"))).Perform();
+                        try { new Actions(firefox).MoveToElement(firefox.FindElement(By.Id("confirm"))).Perform(); }
+                        catch (Exception) { new Actions(firefox).MoveToElement(firefox.FindElement(By.Id("confirm_user_password"))).Perform(); }
+                        try { new WebDriverWait(firefox, new TimeSpan(0, 0, 10)).Until(SeleniumExtras.WaitHelpers.ExpectedConditions.ElementIsVisible(By.Id("user_password"))); } catch { }
+                        firefox.FindElement(By.Id("user_password")).SendKeys(pass);
+
+                        try { firefox.FindElement(By.Id("confirm")).SendKeys(pass); }
+                        catch (Exception) { firefox.FindElement(By.Id("confirm_user_password")).SendKeys(pass); }
+
+                        //save
+                        new Actions(firefox).MoveToElement(firefox.FindElement(By.XPath("/html/body/main/header[2]"))).Perform();
+                        try { new WebDriverWait(firefox, new TimeSpan(0, 0, 10)).Until(SeleniumExtras.WaitHelpers.ExpectedConditions.ElementIsVisible(By.XPath("//button[@title='Save']"))); } catch { }
+                        firefox.FindElement(By.XPath("//button[@title='Save']")).Click();
+                        #endregion
+
+                        #region Salir de fusion
+                        try { firefox.FindElement(By.XPath("//a[@href='/logout']")).Click(); } catch { }
+                        System.Threading.Thread.Sleep(1000);
+                        #endregion
+
+                        #region Probar inicio de sesión
+                        response = TestSamLogin(firefox, email, pass);
+                        if (response == "OK")
+                            response = "El usuario ya existe, pero se restableció la contraseña: " + pass;
+                        #endregion
+
+                        break;
+                    }
+                    else
+                        response = "El usuario ya existe, pero no se encontró en la lista";
+                }
+            }
+
+            if (alreadyExist == false)
+            {
+                #region ROLES
+                firefox.Navigate().Refresh();
+                try { new WebDriverWait(firefox, new TimeSpan(0, 0, 15)).Until(SeleniumExtras.WaitHelpers.ExpectedConditions.ElementIsVisible(By.XPath("//*[@id='registrations']/a"))); } catch { }
+                firefox.FindElement(By.XPath("//*[@id='registrations']/a")).Click();
+
+                try { new WebDriverWait(firefox, new TimeSpan(0, 0, 10)).Until(SeleniumExtras.WaitHelpers.ExpectedConditions.ElementIsVisible(By.Id("registration_applicationId"))); } catch { }
+                SelectElement registration_applicationId = new SelectElement(firefox.FindElement(By.XPath("//*[@id='registration_applicationId']")));
+                registration_applicationId.SelectByValue("f6676728-74b5-4364-80a4-bc42b85d5879"); //eso es SAM externo
+                try { new WebDriverWait(firefox, new TimeSpan(0, 0, 10)).Until(SeleniumExtras.WaitHelpers.ExpectedConditions.ElementIsVisible(By.Id("registration_username"))); } catch { }
+                firefox.FindElement(By.Id("registration_username")).SendKeys(email);
+                try { new WebDriverWait(firefox, new TimeSpan(0, 0, 10)).Until(SeleniumExtras.WaitHelpers.ExpectedConditions.ElementIsVisible(By.Id("registration_roles"))); } catch { }
+
+                System.Collections.ObjectModel.ReadOnlyCollection<IWebElement> roles = firefox.FindElements(By.XPath("//*[@id='registration_roles']/div"));
+
+                foreach (IWebElement rol in roles)
+                    rol.Click();
+
+                //save registration
+                new Actions(firefox).MoveToElement(firefox.FindElement(By.XPath("/html/body/main/header[2]"))).Perform();
+                try { new WebDriverWait(firefox, new TimeSpan(0, 0, 10)).Until(SeleniumExtras.WaitHelpers.ExpectedConditions.ElementIsVisible(By.XPath("//button[@title='Save']"))); } catch { }
+                firefox.FindElement(By.XPath("//button[@title='Save']")).Click();
+                #endregion
+
+                #region Salir de fusion  
+                try { firefox.FindElement(By.XPath("//a[@href='/logout']")).Click(); } catch { }
+                System.Threading.Thread.Sleep(1000);
+                #endregion
+
+                #region Probar inicio de sesion SAM
+
+                response = TestSamLogin(firefox, email, pass);
+                if (response == "OK")
+                    response = "El usuario ha sido creado";
+
+                #endregion
+
+            }
+
+            firefox.Close();
+            proc.KillProcess("geckodriver", true);
+
+            return response;
+        }
+        public string ChangeSamPass(string email, string pass)
+        {
+            string response = "error";
+            Credentials cred = new Credentials();
+
+            try
+            {
+                IWebDriver firefox = sel.NewSeleniumChromeDriver();
+
+                firefox.Navigate().GoToUrl("https://gbm.fusionauth.io/admin/");
+                firefox.FindElement(By.XPath("/html/body/main/main/div[1]/div/div/main/form/fieldset/div[1]/div/input")).SendKeys(cred.fusionUser);
+                firefox.FindElement(By.XPath("/html/body/main/main/div[1]/div/div/main/form/fieldset/div[2]/div/input")).SendKeys(cred.fusionPassword);
+                firefox.FindElement(By.XPath("/html/body/main/main/div[1]/div/div/main/form/div/button")).Click();
+
+                firefox.FindElement(By.XPath("//*[@id='user-search-bar']/main/input")).SendKeys(email);
+                firefox.FindElement(By.XPath("//*[@id='user-search-bar']/main/input")).SendKeys(Keys.Enter);
+
+                try { new WebDriverWait(firefox, new TimeSpan(0, 0, 10)).Until(SeleniumExtras.WaitHelpers.ExpectedConditions.ElementIsVisible(By.XPath("//*[@id='advanced-search-results']/table/tbody/tr[1]/td[3]"))); } catch { }     //username en la tabla
+
+                for (int i = 1; i < 5; i++)
+                {
+                    string emailSearch = firefox.FindElement(By.XPath("//*[@id='advanced-search-results']/table/tbody/tr[" + i.ToString() + "]/td[1]")).Text;
+                    if (emailSearch == email)
+                    {
+                        firefox.FindElement(By.XPath("//*[@id='advanced-search-results']/table/tbody/tr[" + i.ToString() + "]/td[5]/a/i")).Click(); //tr es la fila     //el boton manage
+                        try { new WebDriverWait(firefox, new TimeSpan(0, 0, 10)).Until(SeleniumExtras.WaitHelpers.ExpectedConditions.ElementIsVisible(By.XPath("//*[@id='edit-user']"))); } catch { }
+                        firefox.FindElement(By.XPath("//*[@id='edit-user']")).Click(); //editar
+                        try
+                        { firefox.Navigate().Refresh(); }
+                        catch (UnhandledAlertException)
+                        { firefox.Navigate().Refresh(); }
+
+                        try//primera forma
+                        {
+                            SelectElement registrationApplicationId;
+                            try { new WebDriverWait(firefox, new TimeSpan(0, 0, 10)).Until(SeleniumExtras.WaitHelpers.ExpectedConditions.ElementIsVisible(By.XPath("//*[@id='editPasswordOption']"))); } catch { }
+                            registrationApplicationId = new SelectElement(firefox.FindElement(By.XPath("//*[@id='editPasswordOption']")));
+                            registrationApplicationId.SelectByValue("update");
+                        }
+                        catch (Exception)//la otra forma
+                        {
+                            try { new WebDriverWait(firefox, new TimeSpan(0, 0, 10)).Until(SeleniumExtras.WaitHelpers.ExpectedConditions.ElementIsVisible(By.XPath("/html/body/main/form/main/div/div/div/main/fieldset[2]/div[1]/label[2]/span[1]"))); } catch { }
+                            firefox.FindElement(By.XPath("/html/body/main/form/main/div/div/div/main/fieldset[2]/div[1]/label[2]/span[1]")).Click();
+                        }
+
+                        new Actions(firefox).MoveToElement(firefox.FindElement(By.XPath("//*[@id='confirm']"))).Perform();
+                        try { new WebDriverWait(firefox, new TimeSpan(0, 0, 10)).Until(SeleniumExtras.WaitHelpers.ExpectedConditions.ElementIsVisible(By.XPath("//*[@id='user_password']"))); } catch { }
+                        firefox.FindElement(By.XPath("//*[@id='user_password']")).SendKeys(pass);
+                        firefox.FindElement(By.XPath("//*[@id='confirm']")).SendKeys(pass);
+
+                        new Actions(firefox).MoveToElement(firefox.FindElement(By.XPath("/html/body/main/header[2]"))).Perform();
+                        //save
+                        try { new WebDriverWait(firefox, new TimeSpan(0, 0, 10)).Until(SeleniumExtras.WaitHelpers.ExpectedConditions.ElementIsVisible(By.XPath("//*[@id='user-form']/header/div/div[2]/div/button"))); } catch { }
+                        firefox.FindElement(By.XPath("//*[@id='user-form']/header/div/div[2]/div/button")).Click();
+                        firefox.FindElement(By.XPath("/html/body/main/header[1]/div[2]/nav/ul/li[2]/a")).Click();//salir de fusion
+                        System.Threading.Thread.Sleep(1000);
+
+                        response = TestSamLogin(firefox, email, pass);
+                        if (response == "OK")
+                            response = "Se restablecio la contraseña: " + pass;
+                        break;
+                    }
+                    else
+                        response = "Error, el usuario ya existe, pero no se encontro en la lista";
+                }
+
+                firefox.Close();
+            }
+            catch (Exception ex)
+            {
+                response = "Error: " + ex.Message;
+                proc.KillProcess("firefox", true);
+            }
+
+            proc.KillProcess("geckodriver", true);
+
+            return response;
+        }
+        private string TestSamLogin(IWebDriver firefox, string email, string pass)
+        {
+            string response = "OK";
+
+            try
+            { firefox.Navigate().GoToUrl("https://sam.gbm.net/login"); }
+            catch (UnhandledAlertException)
+            { firefox.Navigate().GoToUrl("https://sam.gbm.net/login"); }
+            try { new WebDriverWait(firefox, new TimeSpan(0, 0, 20)).Until(SeleniumExtras.WaitHelpers.ExpectedConditions.ElementIsVisible(By.XPath("//*[@id='body']/app-root/app-login/div[1]/div/div[2]/div/div[1]/input"))); } catch { }
+            firefox.FindElement(By.XPath("//*[@id='body']/app-root/app-login/div[1]/div/div[2]/div/div[1]/input")).SendKeys(email); //USER
+            firefox.FindElement(By.XPath("//*[@id='body']/app-root/app-login/div[1]/div/div[2]/div/div[2]/input")).SendKeys(pass);  //PASS
+            firefox.FindElement(By.XPath("//*[@id='body']/app-root/app-login/div[1]/div/div[2]/div/div[3]/button")).Click();        //LOGIN
+
+            try
+            {
+                new WebDriverWait(firefox, new TimeSpan(0, 0, 5)).Until(SeleniumExtras.WaitHelpers.ExpectedConditions.ElementIsVisible(By.XPath("//*[@id='body']/app-root/app-login/div[1]/div/div[2]/div/div[4]/label")));
+                response = "Error: " + firefox.FindElement(By.XPath("//*[@id='body']/app-root/app-login/div[1]/div/div[2]/div/div[4]/label")).Text;   //LABEL DE ERROR
+            }
+            catch
+            {
+                try//un solo cliente
+                {
+                    new WebDriverWait(firefox, new TimeSpan(0, 0, 5)).Until(SeleniumExtras.WaitHelpers.ExpectedConditions.ElementIsVisible(By.XPath("//*[@id='settings-item']/a/span")));
+                    new Actions(firefox).MoveToElement(firefox.FindElement(By.XPath("//*[@id='settings-item']/a/span"))).Perform();
+                    firefox.FindElement(By.XPath("//*[@id='settings-item']/a/span")).Click();
+                    firefox.FindElement(By.XPath("//*[@id='settings-item']/div/div[2]/div[3]")).Click();
+                }
+                catch (Exception)//varios clientes
+                {
+                    firefox.FindElement(By.XPath("/html/body/ngb-modal-window/div/div/div[1]/label/span")).Click();
+                }
+                response = "OK";
+            }
+
+            return response;
+        }
+    }
+}

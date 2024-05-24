@@ -1,0 +1,1724 @@
+C:\Users\dmeza\Documents\databot version 5\DataBotV5\bin\Debug\DataBotV5.exe.config
+C:\Users\dmeza\Documents\databot version 5\DataBotV5\bin\Debug\DataBotV5.exe
+C:\Users\dmeza\Documents\databot version 5\DataBotV5\bin\Debug\DataBotV5.pdb
+C:\Users\dmeza\Documents\databot version 5\DataBotV5\obj\Debug\DataBotV5.csprojAssemblyReference.cache
+C:\Users\dmeza\Documents\databot version 5\DataBotV5\obj\Debug\DataBotV5.csproj.CoreCompileInputs.cache
+C:\Users\dmeza\Documents\databot version 5\DataBotV5\obj\Debug\DataBotV5.exe
+C:\Users\dmeza\Documents\databot version 5\DataBotV5\obj\Debug\DataBotV5.pdb
+C:\Users\epiedra\Documents\DataBotV5\obj\Debug\DataBotV5.csproj.AssemblyReference.cache
+C:\Users\epiedra\Documents\DataBotV5\obj\Debug\DataBotV5.Properties.Resources.resources
+C:\Users\epiedra\Documents\DataBotV5\obj\Debug\DataBotV5.csproj.GenerateResource.cache
+C:\Users\epiedra\Documents\DataBotV5\obj\Debug\DataBotV5.csproj.CoreCompileInputs.cache
+C:\Users\epiedra\Documents\Databotv5\obj\Debug\Interop.Shell32.dll
+C:\Users\epiedra\Documents\Databotv5\obj\Debug\DataBotV5.csproj.ResolveComReference.cache
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\WinSCP.exe
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\DataBotV5.exe.config
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\DataBotV5.exe
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\DataBotV5.pdb
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\amqmdnetstd.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\AngleSharp.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\Byndyusoft.Net.Http.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\ClosedXML.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\ExcelDataReader.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\ExcelNumberFormat.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\Google.Protobuf.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\HtmlAgilityPack.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\Ionic.Zip.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\Microsoft.Office.Client.Policy.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\Microsoft.Office.Client.TranslationServices.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\Microsoft.Office.SharePoint.Tools.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\Microsoft.Online.SharePoint.Client.Tenant.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\Microsoft.ProjectServer.Client.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\Microsoft.SharePoint.Client.DocumentManagement.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\Microsoft.SharePoint.Client.Publishing.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\Microsoft.SharePoint.Client.Search.Applications.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\Microsoft.SharePoint.Client.Search.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\Microsoft.SharePoint.Client.Taxonomy.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\Microsoft.SharePoint.Client.UserProfiles.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\Microsoft.SharePoint.Client.WorkflowServices.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\Microsoft.VisualStudio.Interop.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\Mnt.Microsoft.Exchange.WebServices.Data.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\MySql.Data.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\MySqlBackup.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\Newtonsoft.Json.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\Pipelines.Sockets.Unofficial.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\Renci.SshNet.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\sapnco.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\sapnco_utils.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\StackExchange.Redis.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\Syncfusion.Compression.Portable.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\Syncfusion.Pdf.Base.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\System.Buffers.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\System.IO.Packaging.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\System.IO.Pipelines.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\System.Memory.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\System.Security.AccessControl.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\System.Security.Permissions.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\System.Threading.Channels.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\System.ValueTuple.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\WebDriver.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\WebDriver.Support.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\WebDriverManager.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\WinSCPnet.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\ZstdNet.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\Microsoft.MSXML.dll
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\AngleSharp.xml
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\ClosedXML.pdb
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\ClosedXML.xml
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\ExcelDataReader.pdb
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\ExcelDataReader.xml
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\ExcelNumberFormat.xml
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\Google.Protobuf.pdb
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\Google.Protobuf.xml
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\HtmlAgilityPack.xml
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\Microsoft.VisualStudio.Interop.xml
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\MySql.Data.xml
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\Newtonsoft.Json.xml
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\Pipelines.Sockets.Unofficial.xml
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\Renci.SshNet.xml
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\StackExchange.Redis.xml
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\Syncfusion.Compression.Portable.xml
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\Syncfusion.Pdf.Base.xml
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\System.Buffers.xml
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\System.IO.Pipelines.xml
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\System.Memory.xml
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\System.Security.AccessControl.xml
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\System.Security.Permissions.xml
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\System.Threading.Channels.xml
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\System.ValueTuple.xml
+C:\Users\epiedra\Documents\DataBotV5\obj\Debug\DataBotV5.csproj.CopyComplete
+C:\Users\epiedra\Documents\DataBotV5\obj\Debug\DataBotV5.exe
+C:\Users\epiedra\Documents\DataBotV5\obj\Debug\DataBotV5.pdb
+C:\Users\dmeza\Documents\databotv5\bin\Debug\WinSCP.exe
+C:\Users\dmeza\Documents\databotv5\bin\Debug\DataBotV5.exe.config
+C:\Users\dmeza\Documents\databotv5\bin\Debug\DataBotV5.exe
+C:\Users\dmeza\Documents\databotv5\bin\Debug\DataBotV5.pdb
+C:\Users\dmeza\Documents\databotv5\bin\Debug\amqmdnetstd.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\AngleSharp.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\Byndyusoft.Net.Http.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\ClosedXML.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\ExcelDataReader.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\ExcelNumberFormat.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\Google.Protobuf.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\HtmlAgilityPack.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\Ionic.Zip.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\Microsoft.Office.Client.Policy.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\Microsoft.Office.Client.TranslationServices.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\Microsoft.Office.SharePoint.Tools.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\Microsoft.Online.SharePoint.Client.Tenant.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\Microsoft.ProjectServer.Client.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\Microsoft.SharePoint.Client.DocumentManagement.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\Microsoft.SharePoint.Client.Publishing.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\Microsoft.SharePoint.Client.Search.Applications.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\Microsoft.SharePoint.Client.Search.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\Microsoft.SharePoint.Client.Taxonomy.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\Microsoft.SharePoint.Client.UserProfiles.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\Microsoft.SharePoint.Client.WorkflowServices.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\Microsoft.VisualStudio.Interop.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\Mnt.Microsoft.Exchange.WebServices.Data.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\MySql.Data.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\MySqlBackup.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\Pipelines.Sockets.Unofficial.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\Renci.SshNet.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\StackExchange.Redis.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\Syncfusion.Compression.Portable.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\Syncfusion.Pdf.Base.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\System.Buffers.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\System.IO.Packaging.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\System.IO.Pipelines.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\System.Memory.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\System.Security.AccessControl.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\System.Security.Permissions.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\System.Threading.Channels.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\System.ValueTuple.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\WebDriver.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\WebDriver.Support.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\WebDriverManager.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\WinSCPnet.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\ZstdNet.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\Microsoft.MSXML.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\AngleSharp.xml
+C:\Users\dmeza\Documents\databotv5\bin\Debug\ClosedXML.pdb
+C:\Users\dmeza\Documents\databotv5\bin\Debug\ClosedXML.xml
+C:\Users\dmeza\Documents\databotv5\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\dmeza\Documents\databotv5\bin\Debug\ExcelDataReader.pdb
+C:\Users\dmeza\Documents\databotv5\bin\Debug\ExcelDataReader.xml
+C:\Users\dmeza\Documents\databotv5\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\dmeza\Documents\databotv5\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\dmeza\Documents\databotv5\bin\Debug\ExcelNumberFormat.xml
+C:\Users\dmeza\Documents\databotv5\bin\Debug\Google.Protobuf.pdb
+C:\Users\dmeza\Documents\databotv5\bin\Debug\Google.Protobuf.xml
+C:\Users\dmeza\Documents\databotv5\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\dmeza\Documents\databotv5\bin\Debug\HtmlAgilityPack.xml
+C:\Users\dmeza\Documents\databotv5\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\dmeza\Documents\databotv5\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\dmeza\Documents\databotv5\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\dmeza\Documents\databotv5\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\dmeza\Documents\databotv5\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\dmeza\Documents\databotv5\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\dmeza\Documents\databotv5\bin\Debug\Microsoft.VisualStudio.Interop.xml
+C:\Users\dmeza\Documents\databotv5\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+C:\Users\dmeza\Documents\databotv5\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\dmeza\Documents\databotv5\bin\Debug\MySql.Data.xml
+C:\Users\dmeza\Documents\databotv5\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dmeza\Documents\databotv5\bin\Debug\Pipelines.Sockets.Unofficial.xml
+C:\Users\dmeza\Documents\databotv5\bin\Debug\Renci.SshNet.xml
+C:\Users\dmeza\Documents\databotv5\bin\Debug\StackExchange.Redis.xml
+C:\Users\dmeza\Documents\databotv5\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\dmeza\Documents\databotv5\bin\Debug\Syncfusion.Compression.Portable.xml
+C:\Users\dmeza\Documents\databotv5\bin\Debug\Syncfusion.Pdf.Base.xml
+C:\Users\dmeza\Documents\databotv5\bin\Debug\System.Buffers.xml
+C:\Users\dmeza\Documents\databotv5\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\dmeza\Documents\databotv5\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\dmeza\Documents\databotv5\bin\Debug\System.IO.Pipelines.xml
+C:\Users\dmeza\Documents\databotv5\bin\Debug\System.Memory.xml
+C:\Users\dmeza\Documents\databotv5\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dmeza\Documents\databotv5\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dmeza\Documents\databotv5\bin\Debug\System.Security.AccessControl.xml
+C:\Users\dmeza\Documents\databotv5\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\dmeza\Documents\databotv5\bin\Debug\System.Security.Permissions.xml
+C:\Users\dmeza\Documents\databotv5\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\dmeza\Documents\databotv5\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\dmeza\Documents\databotv5\bin\Debug\System.Threading.Channels.xml
+C:\Users\dmeza\Documents\databotv5\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\dmeza\Documents\databotv5\bin\Debug\System.ValueTuple.xml
+C:\Users\dmeza\Documents\databotv5\obj\Debug\Interop.Shell32.dll
+C:\Users\dmeza\Documents\databotv5\obj\Debug\DataBotV5.csproj.ResolveComReference.cache
+C:\Users\dmeza\Documents\databotv5\obj\Debug\DataBotV5.Properties.Resources.resources
+C:\Users\dmeza\Documents\databotv5\obj\Debug\DataBotV5.csproj.GenerateResource.cache
+C:\Users\dmeza\Documents\databotv5\obj\Debug\DataBotV5.csproj.CoreCompileInputs.cache
+C:\Users\dmeza\Documents\databotv5\obj\Debug\DataBotV5.csproj.CopyComplete
+C:\Users\dmeza\Documents\databotv5\obj\Debug\DataBotV5.exe
+C:\Users\dmeza\Documents\databotv5\obj\Debug\DataBotV5.pdb
+C:\Users\dmeza\Documents\databotv5\bin\Debug\DataBotV5.exe.manifest
+C:\Users\dmeza\Documents\databotv5\bin\Debug\DataBotV5.application
+C:\Users\dmeza\Documents\databotv5\obj\Debug\DataBotV5.exe.manifest
+C:\Users\dmeza\Documents\databotv5\obj\Debug\DataBotV5.application
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\DataBotV5.exe.manifest
+C:\Users\epiedra\Documents\DataBotV5\bin\Debug\DataBotV5.application
+C:\Users\epiedra\Documents\DataBotV5\obj\Debug\DataBotV5.exe.manifest
+C:\Users\epiedra\Documents\DataBotV5\obj\Debug\DataBotV5.application
+C:\Users\dmeza\Documents\databotv5\obj\Debug\DataBotV5.csproj.AssemblyReference.cache
+C:\Users\dmeza\Documents\databotv5\obj\Debug\DataBotV5.csproj.SuggestedBindingRedirects.cache
+C:\Users\dmeza\Documents\databotv5\bin\Debug\sapnco.dll
+C:\Users\dmeza\Documents\databotv5\bin\Debug\sapnco_utils.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\WinSCP.exe
+C:\Users\dmeza\Documents\databot\bin\Debug\DataBotV5.exe.config
+C:\Users\dmeza\Documents\databot\bin\Debug\DataBotV5.exe.manifest
+C:\Users\dmeza\Documents\databot\bin\Debug\DataBotV5.application
+C:\Users\dmeza\Documents\databot\bin\Debug\DataBotV5.exe
+C:\Users\dmeza\Documents\databot\bin\Debug\DataBotV5.pdb
+C:\Users\dmeza\Documents\databot\bin\Debug\amqmdnetstd.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\AngleSharp.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\Byndyusoft.Net.Http.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\ClosedXML.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\ExcelDataReader.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\ExcelNumberFormat.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\Google.Protobuf.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\HtmlAgilityPack.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\Ionic.Zip.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\Microsoft.Office.Client.Policy.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\Microsoft.Office.Client.TranslationServices.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\Microsoft.Office.SharePoint.Tools.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\Microsoft.Online.SharePoint.Client.Tenant.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\Microsoft.ProjectServer.Client.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\Microsoft.SharePoint.Client.DocumentManagement.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\Microsoft.SharePoint.Client.Publishing.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\Microsoft.SharePoint.Client.Search.Applications.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\Microsoft.SharePoint.Client.Search.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\Microsoft.SharePoint.Client.Taxonomy.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\Microsoft.SharePoint.Client.UserProfiles.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\Microsoft.SharePoint.Client.WorkflowServices.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\Microsoft.VisualStudio.Interop.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\Mnt.Microsoft.Exchange.WebServices.Data.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\MySql.Data.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\MySqlBackup.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\Pipelines.Sockets.Unofficial.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\Renci.SshNet.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\sapnco.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\sapnco_utils.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\StackExchange.Redis.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\Syncfusion.Compression.Portable.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\Syncfusion.Pdf.Base.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\System.Buffers.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\System.IO.Packaging.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\System.IO.Pipelines.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\System.Memory.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\System.Security.AccessControl.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\System.Security.Permissions.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\System.Threading.Channels.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\System.ValueTuple.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\WebDriver.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\WebDriver.Support.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\WebDriverManager.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\WinSCPnet.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\ZstdNet.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\Microsoft.MSXML.dll
+C:\Users\dmeza\Documents\databot\bin\Debug\AngleSharp.xml
+C:\Users\dmeza\Documents\databot\bin\Debug\ClosedXML.pdb
+C:\Users\dmeza\Documents\databot\bin\Debug\ClosedXML.xml
+C:\Users\dmeza\Documents\databot\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\dmeza\Documents\databot\bin\Debug\ExcelDataReader.pdb
+C:\Users\dmeza\Documents\databot\bin\Debug\ExcelDataReader.xml
+C:\Users\dmeza\Documents\databot\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\dmeza\Documents\databot\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\dmeza\Documents\databot\bin\Debug\ExcelNumberFormat.xml
+C:\Users\dmeza\Documents\databot\bin\Debug\Google.Protobuf.pdb
+C:\Users\dmeza\Documents\databot\bin\Debug\Google.Protobuf.xml
+C:\Users\dmeza\Documents\databot\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\dmeza\Documents\databot\bin\Debug\HtmlAgilityPack.xml
+C:\Users\dmeza\Documents\databot\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\dmeza\Documents\databot\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\dmeza\Documents\databot\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\dmeza\Documents\databot\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\dmeza\Documents\databot\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\dmeza\Documents\databot\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\dmeza\Documents\databot\bin\Debug\Microsoft.VisualStudio.Interop.xml
+C:\Users\dmeza\Documents\databot\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+C:\Users\dmeza\Documents\databot\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\dmeza\Documents\databot\bin\Debug\MySql.Data.xml
+C:\Users\dmeza\Documents\databot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dmeza\Documents\databot\bin\Debug\Pipelines.Sockets.Unofficial.xml
+C:\Users\dmeza\Documents\databot\bin\Debug\Renci.SshNet.xml
+C:\Users\dmeza\Documents\databot\bin\Debug\StackExchange.Redis.xml
+C:\Users\dmeza\Documents\databot\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\dmeza\Documents\databot\bin\Debug\Syncfusion.Compression.Portable.xml
+C:\Users\dmeza\Documents\databot\bin\Debug\Syncfusion.Pdf.Base.xml
+C:\Users\dmeza\Documents\databot\bin\Debug\System.Buffers.xml
+C:\Users\dmeza\Documents\databot\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\dmeza\Documents\databot\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\dmeza\Documents\databot\bin\Debug\System.IO.Pipelines.xml
+C:\Users\dmeza\Documents\databot\bin\Debug\System.Memory.xml
+C:\Users\dmeza\Documents\databot\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dmeza\Documents\databot\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dmeza\Documents\databot\bin\Debug\System.Security.AccessControl.xml
+C:\Users\dmeza\Documents\databot\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\dmeza\Documents\databot\bin\Debug\System.Security.Permissions.xml
+C:\Users\dmeza\Documents\databot\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\dmeza\Documents\databot\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\dmeza\Documents\databot\bin\Debug\System.Threading.Channels.xml
+C:\Users\dmeza\Documents\databot\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\dmeza\Documents\databot\bin\Debug\System.ValueTuple.xml
+C:\Users\dmeza\Documents\databot\obj\Debug\DataBotV5.csproj.AssemblyReference.cache
+C:\Users\dmeza\Documents\databot\obj\Debug\DataBotV5.csproj.SuggestedBindingRedirects.cache
+C:\Users\dmeza\Documents\databot\obj\Debug\Interop.Shell32.dll
+C:\Users\dmeza\Documents\databot\obj\Debug\DataBotV5.csproj.ResolveComReference.cache
+C:\Users\dmeza\Documents\databot\obj\Debug\DataBotV5.Properties.Resources.resources
+C:\Users\dmeza\Documents\databot\obj\Debug\DataBotV5.csproj.GenerateResource.cache
+C:\Users\dmeza\Documents\databot\obj\Debug\DataBotV5.csproj.CoreCompileInputs.cache
+C:\Users\dmeza\Documents\databot\obj\Debug\DataBotV5.exe.manifest
+C:\Users\dmeza\Documents\databot\obj\Debug\DataBotV5.application
+C:\Users\dmeza\Documents\databot\obj\Debug\DataBotV5.csproj.CopyComplete
+C:\Users\dmeza\Documents\databot\obj\Debug\DataBotV5.exe
+C:\Users\dmeza\Documents\databot\obj\Debug\DataBotV5.pdb
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\WinSCP.exe
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\DataBotV5.exe.config
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\DataBotV5.exe.manifest
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\DataBotV5.application
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\DataBotV5.exe
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\DataBotV5.pdb
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\amqmdnetstd.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\AngleSharp.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Azure.Core.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Byndyusoft.Net.Http.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\ClosedXML.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\ExcelDataReader.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\ExcelNumberFormat.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Google.Protobuf.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\HtmlAgilityPack.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Ionic.Zip.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Microsoft.Graph.Core.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Microsoft.Graph.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Microsoft.Office.Client.Policy.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Microsoft.Office.Client.TranslationServices.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Microsoft.Office.SharePoint.Tools.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Microsoft.Online.SharePoint.Client.Tenant.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Microsoft.ProjectServer.Client.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Microsoft.SharePoint.Client.DocumentManagement.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Microsoft.SharePoint.Client.Publishing.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Microsoft.SharePoint.Client.Search.Applications.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Microsoft.SharePoint.Client.Search.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Microsoft.SharePoint.Client.Taxonomy.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Microsoft.SharePoint.Client.UserProfiles.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Microsoft.SharePoint.Client.WorkflowServices.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Microsoft.VisualStudio.Interop.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Mnt.Microsoft.Exchange.WebServices.Data.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\MySql.Data.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\MySqlBackup.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Pipelines.Sockets.Unofficial.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Renci.SshNet.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\sapnco.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\sapnco_utils.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\StackExchange.Redis.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Syncfusion.Compression.Portable.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Syncfusion.Pdf.Base.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\System.Buffers.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\System.IO.Packaging.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\System.IO.Pipelines.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\System.Memory.Data.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\System.Memory.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\System.Net.Http.WinHttpHandler.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\System.Security.AccessControl.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\System.Security.Permissions.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\System.Text.Json.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\System.Threading.Channels.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\System.ValueTuple.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\WebDriver.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\WebDriver.Support.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\WebDriverManager.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\WinSCPnet.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\ZstdNet.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\AngleSharp.xml
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Azure.Core.xml
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\ClosedXML.pdb
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\ClosedXML.xml
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\ExcelDataReader.pdb
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\ExcelDataReader.xml
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\ExcelNumberFormat.xml
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Google.Protobuf.pdb
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Google.Protobuf.xml
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\HtmlAgilityPack.xml
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Microsoft.Graph.xml
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Microsoft.Graph.Core.xml
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Microsoft.VisualStudio.Interop.xml
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\MySql.Data.xml
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Pipelines.Sockets.Unofficial.xml
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Renci.SshNet.xml
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\StackExchange.Redis.xml
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Syncfusion.Compression.Portable.xml
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Syncfusion.Pdf.Base.xml
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\System.Buffers.xml
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\System.IO.Pipelines.xml
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\System.Memory.xml
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\System.Memory.Data.xml
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\System.Net.Http.WinHttpHandler.xml
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\System.Security.AccessControl.xml
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\System.Security.Permissions.xml
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\System.Text.Json.xml
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\System.Threading.Channels.xml
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\System.ValueTuple.xml
+C:\Users\dmeza\Documents\GitHub\Databotv5\obj\Debug\DataBotV5.csproj.AssemblyReference.cache
+C:\Users\dmeza\Documents\GitHub\Databotv5\obj\Debug\DataBotV5.csproj.SuggestedBindingRedirects.cache
+C:\Users\dmeza\Documents\GitHub\Databotv5\obj\Debug\Interop.Shell32.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\obj\Debug\DataBotV5.csproj.ResolveComReference.cache
+C:\Users\dmeza\Documents\GitHub\Databotv5\obj\Debug\DataBotV5.Properties.Resources.resources
+C:\Users\dmeza\Documents\GitHub\Databotv5\obj\Debug\DataBotV5.csproj.GenerateResource.cache
+C:\Users\dmeza\Documents\GitHub\Databotv5\obj\Debug\DataBotV5.csproj.CoreCompileInputs.cache
+C:\Users\dmeza\Documents\GitHub\Databotv5\obj\Debug\DataBotV5.exe.manifest
+C:\Users\dmeza\Documents\GitHub\Databotv5\obj\Debug\DataBotV5.application
+C:\Users\dmeza\Documents\GitHub\Databotv5\obj\Debug\DataBotV5.csproj.CopyComplete
+C:\Users\dmeza\Documents\GitHub\Databotv5\obj\Debug\DataBotV5.exe
+C:\Users\dmeza\Documents\GitHub\Databotv5\obj\Debug\DataBotV5.pdb
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\WinSCP.exe
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\DataBotV5.exe.config
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\DataBotV5.exe.manifest
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\DataBotV5.application
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\DataBotV5.exe
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\DataBotV5.pdb
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\amqmdnetstd.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\AngleSharp.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Azure.Core.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Byndyusoft.Net.Http.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\ClosedXML.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\ExcelDataReader.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\ExcelNumberFormat.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Google.Protobuf.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\HtmlAgilityPack.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Ionic.Zip.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Microsoft.Graph.Core.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Microsoft.Graph.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Microsoft.Office.Client.Policy.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Microsoft.Office.Client.TranslationServices.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Microsoft.Office.SharePoint.Tools.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Microsoft.Online.SharePoint.Client.Tenant.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Microsoft.ProjectServer.Client.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Microsoft.SharePoint.Client.DocumentManagement.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Microsoft.SharePoint.Client.Publishing.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Microsoft.SharePoint.Client.Search.Applications.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Microsoft.SharePoint.Client.Search.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Microsoft.SharePoint.Client.Taxonomy.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Microsoft.SharePoint.Client.UserProfiles.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Microsoft.SharePoint.Client.WorkflowServices.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Microsoft.VisualStudio.Interop.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Mnt.Microsoft.Exchange.WebServices.Data.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\MySql.Data.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\MySqlBackup.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Newtonsoft.Json.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Pipelines.Sockets.Unofficial.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Renci.SshNet.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\sapnco.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\sapnco_utils.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\StackExchange.Redis.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Syncfusion.Compression.Portable.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Syncfusion.Pdf.Base.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\System.Buffers.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\System.IO.Packaging.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\System.IO.Pipelines.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\System.Memory.Data.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\System.Memory.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\System.Net.Http.WinHttpHandler.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\System.Security.AccessControl.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\System.Security.Permissions.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\System.Text.Json.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\System.Threading.Channels.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\System.ValueTuple.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\WebDriver.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\WebDriver.Support.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\WebDriverManager.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\WinSCPnet.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\ZstdNet.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\AngleSharp.xml
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Azure.Core.xml
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\ClosedXML.pdb
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\ClosedXML.xml
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\ExcelDataReader.pdb
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\ExcelDataReader.xml
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\ExcelNumberFormat.xml
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Google.Protobuf.pdb
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Google.Protobuf.xml
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\HtmlAgilityPack.xml
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Microsoft.Graph.xml
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Microsoft.Graph.Core.xml
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Microsoft.VisualStudio.Interop.xml
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\MySql.Data.xml
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Newtonsoft.Json.xml
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Pipelines.Sockets.Unofficial.xml
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Renci.SshNet.xml
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\StackExchange.Redis.xml
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Syncfusion.Compression.Portable.xml
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Syncfusion.Pdf.Base.xml
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\System.Buffers.xml
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\System.IO.Pipelines.xml
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\System.Memory.xml
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\System.Memory.Data.xml
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\System.Net.Http.WinHttpHandler.xml
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\System.Security.AccessControl.xml
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\System.Security.Permissions.xml
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\System.Text.Json.xml
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\System.Threading.Channels.xml
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\System.ValueTuple.xml
+C:\Users\smarin\Documents\GitHub\Databotv5\obj\Debug\DataBotV5.csproj.AssemblyReference.cache
+C:\Users\smarin\Documents\GitHub\Databotv5\obj\Debug\Interop.Shell32.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\obj\Debug\DataBotV5.csproj.ResolveComReference.cache
+C:\Users\smarin\Documents\GitHub\Databotv5\obj\Debug\DataBotV5.Properties.Resources.resources
+C:\Users\smarin\Documents\GitHub\Databotv5\obj\Debug\DataBotV5.csproj.GenerateResource.cache
+C:\Users\smarin\Documents\GitHub\Databotv5\obj\Debug\DataBotV5.csproj.CoreCompileInputs.cache
+C:\Users\smarin\Documents\GitHub\Databotv5\obj\Debug\DataBotV5.exe.manifest
+C:\Users\smarin\Documents\GitHub\Databotv5\obj\Debug\DataBotV5.application
+C:\Users\smarin\Documents\GitHub\Databotv5\obj\Debug\DataBotV5.csproj.CopyComplete
+C:\Users\smarin\Documents\GitHub\Databotv5\obj\Debug\DataBotV5.exe
+C:\Users\smarin\Documents\GitHub\Databotv5\obj\Debug\DataBotV5.pdb
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Microsoft.MSXML.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\PhoneNumbers.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\System.Collections.Immutable.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\PhoneNumbers.xml
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\System.Collections.Immutable.xml
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\WinSCP.exe
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\DataBotV5.exe.config
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\DataBotV5.exe.manifest
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\DataBotV5.application
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\DataBotV5.exe
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\DataBotV5.pdb
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\amqmdnetstd.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\AngleSharp.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\Azure.Core.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\Byndyusoft.Net.Http.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\ClosedXML.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\ExcelDataReader.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\ExcelNumberFormat.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\Google.Protobuf.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\HtmlAgilityPack.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\Ionic.Zip.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\Microsoft.Graph.Core.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\Microsoft.Graph.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\Microsoft.Office.Client.Policy.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\Microsoft.Office.Client.TranslationServices.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\Microsoft.Office.SharePoint.Tools.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\Microsoft.Online.SharePoint.Client.Tenant.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\Microsoft.ProjectServer.Client.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\Microsoft.SharePoint.Client.DocumentManagement.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\Microsoft.SharePoint.Client.Publishing.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\Microsoft.SharePoint.Client.Search.Applications.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\Microsoft.SharePoint.Client.Search.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\Microsoft.SharePoint.Client.Taxonomy.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\Microsoft.SharePoint.Client.UserProfiles.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\Microsoft.SharePoint.Client.WorkflowServices.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\Microsoft.VisualStudio.Interop.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\Mnt.Microsoft.Exchange.WebServices.Data.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\MySql.Data.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\MySqlBackup.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\Newtonsoft.Json.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\PhoneNumbers.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\Pipelines.Sockets.Unofficial.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\Renci.SshNet.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\sapnco.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\sapnco_utils.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\StackExchange.Redis.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\Syncfusion.Compression.Portable.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\Syncfusion.Pdf.Base.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\System.Buffers.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\System.Collections.Immutable.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\System.IO.Packaging.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\System.IO.Pipelines.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\System.Memory.Data.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\System.Memory.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\System.Net.Http.WinHttpHandler.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\System.Security.AccessControl.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\System.Security.Permissions.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\System.Text.Json.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\System.Threading.Channels.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\System.ValueTuple.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\WebDriver.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\WebDriver.Support.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\WebDriverManager.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\WinSCPnet.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\ZstdNet.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\Microsoft.MSXML.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\AngleSharp.xml
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\Azure.Core.xml
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\ClosedXML.pdb
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\ClosedXML.xml
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\ExcelDataReader.pdb
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\ExcelDataReader.xml
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\ExcelNumberFormat.xml
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\Google.Protobuf.pdb
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\Google.Protobuf.xml
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\HtmlAgilityPack.xml
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\Microsoft.Graph.xml
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\Microsoft.Graph.Core.xml
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\Microsoft.VisualStudio.Interop.xml
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\MySql.Data.xml
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\Newtonsoft.Json.xml
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\PhoneNumbers.xml
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\Pipelines.Sockets.Unofficial.xml
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\Renci.SshNet.xml
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\StackExchange.Redis.xml
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\Syncfusion.Compression.Portable.xml
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\Syncfusion.Pdf.Base.xml
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\System.Buffers.xml
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\System.Collections.Immutable.xml
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\System.IO.Pipelines.xml
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\System.Memory.xml
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\System.Memory.Data.xml
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\System.Net.Http.WinHttpHandler.xml
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\System.Security.AccessControl.xml
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\System.Security.Permissions.xml
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\System.Text.Json.xml
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\System.Threading.Channels.xml
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\bin\Debug\System.ValueTuple.xml
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\obj\Debug\DataBotV5.csproj.AssemblyReference.cache
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\obj\Debug\Interop.Shell32.dll
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\obj\Debug\DataBotV5.csproj.ResolveComReference.cache
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\obj\Debug\DataBotV5.Properties.Resources.resources
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\obj\Debug\DataBotV5.csproj.GenerateResource.cache
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\obj\Debug\DataBotV5.csproj.CoreCompileInputs.cache
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\obj\Debug\DataBotV5.exe.manifest
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\obj\Debug\DataBotV5.application
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\obj\Debug\DataBotV5.csproj.CopyComplete
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\obj\Debug\DataBotV5.exe
+C:\Users\joarojas\Documents\proyectos\Data Bot\Databotv5\obj\Debug\DataBotV5.pdb
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\WinSCP.exe
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\DataBotV5.exe.config
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\DataBotV5.exe.manifest
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\DataBotV5.application
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\DataBotV5.exe
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\DataBotV5.pdb
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\amqmdnetstd.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\AngleSharp.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\Azure.Core.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\Byndyusoft.Net.Http.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\ClosedXML.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\ExcelDataReader.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\ExcelNumberFormat.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\Google.Protobuf.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\HtmlAgilityPack.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\Ionic.Zip.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\Microsoft.Graph.Core.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\Microsoft.Graph.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\Microsoft.Office.Client.Policy.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\Microsoft.Office.Client.TranslationServices.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\Microsoft.Office.SharePoint.Tools.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\Microsoft.Online.SharePoint.Client.Tenant.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\Microsoft.ProjectServer.Client.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\Microsoft.SharePoint.Client.DocumentManagement.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\Microsoft.SharePoint.Client.Publishing.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\Microsoft.SharePoint.Client.Search.Applications.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\Microsoft.SharePoint.Client.Search.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\Microsoft.SharePoint.Client.Taxonomy.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\Microsoft.SharePoint.Client.UserProfiles.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\Microsoft.SharePoint.Client.WorkflowServices.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\Microsoft.VisualStudio.Interop.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\Mnt.Microsoft.Exchange.WebServices.Data.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\MySql.Data.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\MySqlBackup.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\Newtonsoft.Json.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\PhoneNumbers.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\Pipelines.Sockets.Unofficial.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\Renci.SshNet.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\sapnco.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\sapnco_utils.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\StackExchange.Redis.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\Syncfusion.Compression.Portable.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\Syncfusion.Pdf.Base.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\System.Buffers.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\System.Collections.Immutable.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\System.IO.Packaging.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\System.IO.Pipelines.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\System.Memory.Data.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\System.Memory.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\System.Net.Http.WinHttpHandler.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\System.Security.AccessControl.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\System.Security.Permissions.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\System.Text.Json.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\System.Threading.Channels.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\System.ValueTuple.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\WebDriver.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\WebDriver.Support.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\WebDriverManager.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\WinSCPnet.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\ZstdNet.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\Microsoft.MSXML.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\AngleSharp.xml
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\Azure.Core.xml
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\ClosedXML.pdb
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\ClosedXML.xml
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\ExcelDataReader.pdb
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\ExcelDataReader.xml
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\ExcelNumberFormat.xml
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\Google.Protobuf.pdb
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\Google.Protobuf.xml
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\HtmlAgilityPack.xml
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\Microsoft.Graph.xml
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\Microsoft.Graph.Core.xml
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\Microsoft.VisualStudio.Interop.xml
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\MySql.Data.xml
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\Newtonsoft.Json.xml
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\PhoneNumbers.xml
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\Pipelines.Sockets.Unofficial.xml
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\Renci.SshNet.xml
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\StackExchange.Redis.xml
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\Syncfusion.Compression.Portable.xml
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\Syncfusion.Pdf.Base.xml
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\System.Buffers.xml
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\System.Collections.Immutable.xml
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\System.IO.Pipelines.xml
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\System.Memory.xml
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\System.Memory.Data.xml
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\System.Net.Http.WinHttpHandler.xml
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\System.Security.AccessControl.xml
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\System.Security.Permissions.xml
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\System.Text.Json.xml
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\System.Threading.Channels.xml
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\System.ValueTuple.xml
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\obj\Debug\Interop.Shell32.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\obj\Debug\DataBotV5.csproj.ResolveComReference.cache
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\obj\Debug\DataBotV5.Properties.Resources.resources
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\obj\Debug\DataBotV5.csproj.GenerateResource.cache
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\obj\Debug\DataBotV5.csproj.CoreCompileInputs.cache
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\obj\Debug\DataBotV5.exe.manifest
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\obj\Debug\DataBotV5.application
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\obj\Debug\DataBotV5.csproj.CopyComplete
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\obj\Debug\DataBotV5.exe
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\obj\Debug\DataBotV5.pdb
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\obj\Debug\DataBotV5.csproj.AssemblyReference.cache
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\System.Drawing.Common.dll
+C:\Users\epiedra\Documents\DatabotV5 Github\Databotv5\bin\Debug\System.Drawing.Common.xml
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\System.Drawing.Common.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\System.Drawing.Common.xml
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\WinSCP.exe
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\DataBotV5.exe.config
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\DataBotV5.exe.manifest
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\DataBotV5.application
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\DataBotV5.exe
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\DataBotV5.pdb
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\amqmdnetstd.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\AngleSharp.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\Azure.Core.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\Byndyusoft.Net.Http.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\ClosedXML.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\ExcelDataReader.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\ExcelNumberFormat.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\Google.Protobuf.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\HtmlAgilityPack.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\Ionic.Zip.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\Microsoft.Graph.Core.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\Microsoft.Graph.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\Microsoft.Office.Client.Policy.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\Microsoft.Office.Client.TranslationServices.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\Microsoft.Office.SharePoint.Tools.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\Microsoft.Online.SharePoint.Client.Tenant.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\Microsoft.ProjectServer.Client.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\Microsoft.SharePoint.Client.DocumentManagement.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\Microsoft.SharePoint.Client.Publishing.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\Microsoft.SharePoint.Client.Search.Applications.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\Microsoft.SharePoint.Client.Search.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\Microsoft.SharePoint.Client.Taxonomy.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\Microsoft.SharePoint.Client.UserProfiles.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\Microsoft.SharePoint.Client.WorkflowServices.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\Microsoft.VisualStudio.Interop.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\Mnt.Microsoft.Exchange.WebServices.Data.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\MySql.Data.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\MySqlBackup.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\PhoneNumbers.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\Pipelines.Sockets.Unofficial.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\Renci.SshNet.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\sapnco.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\sapnco_utils.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\StackExchange.Redis.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\Syncfusion.Compression.Portable.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\Syncfusion.Pdf.Base.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\System.Buffers.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\System.Collections.Immutable.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\System.Drawing.Common.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\System.IO.Packaging.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\System.IO.Pipelines.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\System.Memory.Data.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\System.Memory.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\System.Net.Http.WinHttpHandler.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\System.Security.AccessControl.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\System.Security.Permissions.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\System.Text.Json.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\System.Threading.Channels.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\System.ValueTuple.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\WebDriver.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\WebDriver.Support.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\WebDriverManager.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\WinSCPnet.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\ZstdNet.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\Microsoft.MSXML.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\AngleSharp.xml
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\Azure.Core.xml
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\ClosedXML.pdb
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\ClosedXML.xml
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\ExcelDataReader.pdb
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\ExcelDataReader.xml
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\ExcelNumberFormat.xml
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\Google.Protobuf.pdb
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\Google.Protobuf.xml
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\HtmlAgilityPack.xml
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\Microsoft.Graph.xml
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\Microsoft.Graph.Core.xml
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\Microsoft.VisualStudio.Interop.xml
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\MySql.Data.xml
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\PhoneNumbers.xml
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\Pipelines.Sockets.Unofficial.xml
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\Renci.SshNet.xml
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\StackExchange.Redis.xml
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\Syncfusion.Compression.Portable.xml
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\Syncfusion.Pdf.Base.xml
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\System.Buffers.xml
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\System.Collections.Immutable.xml
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\System.Drawing.Common.xml
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\System.IO.Pipelines.xml
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\System.Memory.xml
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\System.Memory.Data.xml
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\System.Net.Http.WinHttpHandler.xml
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\System.Security.AccessControl.xml
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\System.Security.Permissions.xml
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\System.Text.Json.xml
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\System.Threading.Channels.xml
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\System.ValueTuple.xml
+C:\Users\kugalde\Documents\New folder\DataBotV5\obj\Debug\DataBotV5.csproj.AssemblyReference.cache
+C:\Users\kugalde\Documents\New folder\DataBotV5\obj\Debug\DataBotV5.csproj.SuggestedBindingRedirects.cache
+C:\Users\kugalde\Documents\New folder\DataBotV5\obj\Debug\Interop.Shell32.dll
+C:\Users\kugalde\Documents\New folder\DataBotV5\obj\Debug\DataBotV5.csproj.ResolveComReference.cache
+C:\Users\kugalde\Documents\New folder\DataBotV5\obj\Debug\DataBotV5.Properties.Resources.resources
+C:\Users\kugalde\Documents\New folder\DataBotV5\obj\Debug\DataBotV5.csproj.GenerateResource.cache
+C:\Users\kugalde\Documents\New folder\DataBotV5\obj\Debug\DataBotV5.csproj.CoreCompileInputs.cache
+C:\Users\kugalde\Documents\New folder\DataBotV5\obj\Debug\DataBotV5.exe.manifest
+C:\Users\kugalde\Documents\New folder\DataBotV5\obj\Debug\DataBotV5.application
+C:\Users\kugalde\Documents\New folder\DataBotV5\obj\Debug\DataBotV5.csproj.CopyComplete
+C:\Users\kugalde\Documents\New folder\DataBotV5\obj\Debug\DataBotV5.exe
+C:\Users\kugalde\Documents\New folder\DataBotV5\obj\Debug\DataBotV5.pdb
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Azure.Identity.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Azure.Identity.xml
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Azure.Identity.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\PhoneNumbers.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\System.Collections.Immutable.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\System.Drawing.Common.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Microsoft.MSXML.dll
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Azure.Identity.xml
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\PhoneNumbers.xml
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\System.Collections.Immutable.xml
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\System.Drawing.Common.xml
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\smarin\Documents\GitHub\Databotv5\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\WinSCP.exe
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\DataBotV5.exe.config
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\DataBotV5.exe.manifest
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\DataBotV5.application
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\DataBotV5.exe
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\DataBotV5.pdb
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\amqmdnetstd.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\AngleSharp.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Azure.Core.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Azure.Identity.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Byndyusoft.Net.Http.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\ClosedXML.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\ExcelDataReader.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\ExcelNumberFormat.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Google.Protobuf.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\HtmlAgilityPack.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Ionic.Zip.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Microsoft.Graph.Core.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Microsoft.Graph.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Microsoft.Office.Client.Policy.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Microsoft.Office.Client.TranslationServices.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Microsoft.Office.SharePoint.Tools.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Microsoft.Online.SharePoint.Client.Tenant.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Microsoft.ProjectServer.Client.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Microsoft.SharePoint.Client.DocumentManagement.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Microsoft.SharePoint.Client.Publishing.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Microsoft.SharePoint.Client.Search.Applications.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Microsoft.SharePoint.Client.Search.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Microsoft.SharePoint.Client.Taxonomy.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Microsoft.SharePoint.Client.UserProfiles.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Microsoft.SharePoint.Client.WorkflowServices.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Microsoft.VisualStudio.Interop.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Mnt.Microsoft.Exchange.WebServices.Data.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\MySql.Data.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\MySqlBackup.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Newtonsoft.Json.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\PhoneNumbers.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Pipelines.Sockets.Unofficial.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Renci.SshNet.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\sapnco.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\sapnco_utils.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\StackExchange.Redis.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Syncfusion.Compression.Portable.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Syncfusion.Pdf.Base.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\System.Buffers.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\System.Collections.Immutable.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\System.Drawing.Common.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\System.IO.Packaging.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\System.IO.Pipelines.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\System.Memory.Data.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\System.Memory.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\System.Net.Http.WinHttpHandler.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\System.Security.AccessControl.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\System.Security.Permissions.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\System.Text.Json.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\System.Threading.Channels.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\System.ValueTuple.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\WebDriver.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\WebDriver.Support.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\WebDriverManager.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\WinSCPnet.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\ZstdNet.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Microsoft.MSXML.dll
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\AngleSharp.xml
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Azure.Core.xml
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Azure.Identity.xml
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\ClosedXML.pdb
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\ClosedXML.xml
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\ExcelDataReader.pdb
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\ExcelDataReader.xml
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\ExcelNumberFormat.xml
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Google.Protobuf.pdb
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Google.Protobuf.xml
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\HtmlAgilityPack.xml
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Microsoft.Graph.xml
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Microsoft.Graph.Core.xml
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Microsoft.VisualStudio.Interop.xml
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\MySql.Data.xml
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Newtonsoft.Json.xml
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\PhoneNumbers.xml
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Pipelines.Sockets.Unofficial.xml
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Renci.SshNet.xml
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\StackExchange.Redis.xml
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Syncfusion.Compression.Portable.xml
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\Syncfusion.Pdf.Base.xml
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\System.Buffers.xml
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\System.Collections.Immutable.xml
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\System.Drawing.Common.xml
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\System.IO.Pipelines.xml
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\System.Memory.xml
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\System.Memory.Data.xml
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\System.Net.Http.WinHttpHandler.xml
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\System.Security.AccessControl.xml
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\System.Security.Permissions.xml
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\System.Text.Json.xml
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\System.Threading.Channels.xml
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\smarin\Desktop\Databotv5\bin\Debug\System.ValueTuple.xml
+C:\Users\smarin\Desktop\Databotv5\obj\Debug\DataBotV5.csproj.AssemblyReference.cache
+C:\Users\smarin\Desktop\Databotv5\obj\Debug\Interop.Shell32.dll
+C:\Users\smarin\Desktop\Databotv5\obj\Debug\DataBotV5.csproj.ResolveComReference.cache
+C:\Users\smarin\Desktop\Databotv5\obj\Debug\DataBotV5.Properties.Resources.resources
+C:\Users\smarin\Desktop\Databotv5\obj\Debug\DataBotV5.csproj.GenerateResource.cache
+C:\Users\smarin\Desktop\Databotv5\obj\Debug\DataBotV5.csproj.CoreCompileInputs.cache
+C:\Users\smarin\Desktop\Databotv5\obj\Debug\DataBotV5.exe.manifest
+C:\Users\smarin\Desktop\Databotv5\obj\Debug\DataBotV5.application
+C:\Users\smarin\Desktop\Databotv5\obj\Debug\DataBotV5.csproj.CopyComplete
+C:\Users\smarin\Desktop\Databotv5\obj\Debug\DataBotV5.exe
+C:\Users\smarin\Desktop\Databotv5\obj\Debug\DataBotV5.pdb
+C:\Users\smarin\Desktop\Databotv5\Databotv5\obj\Debug\DataBotV5.csproj.AssemblyReference.cache
+C:\Users\smarin\Desktop\Databotv5\Databotv5\obj\Debug\Interop.Shell32.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\obj\Debug\DataBotV5.csproj.ResolveComReference.cache
+C:\Users\smarin\Desktop\Databotv5\Databotv5\obj\Debug\DataBotV5.Properties.Resources.resources
+C:\Users\smarin\Desktop\Databotv5\Databotv5\obj\Debug\DataBotV5.csproj.GenerateResource.cache
+C:\Users\smarin\Desktop\Databotv5\Databotv5\obj\Debug\DataBotV5.csproj.CoreCompileInputs.cache
+C:\Users\smarin\Desktop\Databotv5\Databotv5\obj\Debug\DataBotV5.exe
+C:\Users\smarin\Desktop\Databotv5\Databotv5\obj\Debug\DataBotV5.pdb
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\WinSCP.exe
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\DataBotV5.exe.config
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\DataBotV5.exe.manifest
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\DataBotV5.application
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\DataBotV5.exe
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\DataBotV5.pdb
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\amqmdnetstd.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\AngleSharp.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Azure.Core.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Azure.Identity.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Byndyusoft.Net.Http.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\ClosedXML.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\ExcelDataReader.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\ExcelNumberFormat.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Google.Protobuf.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\HtmlAgilityPack.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Ionic.Zip.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Microsoft.Graph.Core.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Microsoft.Graph.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Microsoft.Office.Client.Policy.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Microsoft.Office.Client.TranslationServices.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Microsoft.Office.SharePoint.Tools.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Microsoft.Online.SharePoint.Client.Tenant.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Microsoft.ProjectServer.Client.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Microsoft.SharePoint.Client.DocumentManagement.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Microsoft.SharePoint.Client.Publishing.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Microsoft.SharePoint.Client.Search.Applications.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Microsoft.SharePoint.Client.Search.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Microsoft.SharePoint.Client.Taxonomy.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Microsoft.SharePoint.Client.UserProfiles.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Microsoft.SharePoint.Client.WorkflowServices.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Microsoft.VisualStudio.Interop.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Mnt.Microsoft.Exchange.WebServices.Data.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\MySql.Data.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\MySqlBackup.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Newtonsoft.Json.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\PhoneNumbers.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Pipelines.Sockets.Unofficial.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Renci.SshNet.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\sapnco.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\sapnco_utils.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\StackExchange.Redis.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Syncfusion.Compression.Portable.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Syncfusion.Pdf.Base.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\System.Buffers.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\System.Collections.Immutable.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\System.Drawing.Common.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\System.IO.Packaging.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\System.IO.Pipelines.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\System.Memory.Data.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\System.Memory.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\System.Net.Http.WinHttpHandler.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\System.Security.AccessControl.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\System.Security.Permissions.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\System.Text.Json.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\System.Threading.Channels.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\System.ValueTuple.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\WebDriver.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\WebDriver.Support.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\WebDriverManager.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\WinSCPnet.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\ZstdNet.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Microsoft.MSXML.dll
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\AngleSharp.xml
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Azure.Core.xml
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Azure.Identity.xml
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\ClosedXML.pdb
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\ClosedXML.xml
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\ExcelDataReader.pdb
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\ExcelDataReader.xml
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\ExcelNumberFormat.xml
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Google.Protobuf.pdb
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Google.Protobuf.xml
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\HtmlAgilityPack.xml
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Microsoft.Graph.xml
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Microsoft.Graph.Core.xml
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Microsoft.VisualStudio.Interop.xml
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\MySql.Data.xml
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Newtonsoft.Json.xml
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\PhoneNumbers.xml
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Pipelines.Sockets.Unofficial.xml
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Renci.SshNet.xml
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\StackExchange.Redis.xml
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Syncfusion.Compression.Portable.xml
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\Syncfusion.Pdf.Base.xml
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\System.Buffers.xml
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\System.Collections.Immutable.xml
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\System.Drawing.Common.xml
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\System.IO.Pipelines.xml
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\System.Memory.xml
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\System.Memory.Data.xml
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\System.Net.Http.WinHttpHandler.xml
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\System.Security.AccessControl.xml
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\System.Security.Permissions.xml
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\System.Text.Json.xml
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\System.Threading.Channels.xml
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\smarin\Desktop\Databotv5\Databotv5\bin\Debug\System.ValueTuple.xml
+C:\Users\smarin\Desktop\Databotv5\Databotv5\obj\Debug\DataBotV5.exe.manifest
+C:\Users\smarin\Desktop\Databotv5\Databotv5\obj\Debug\DataBotV5.application
+C:\Users\smarin\Desktop\Databotv5\Databotv5\obj\Debug\DataBotV5.csproj.CopyComplete

@@ -1,0 +1,839 @@
+
+**** Log file opened by process 32800 at 2022-06-06 19:31:26 (UTC-06:00 Central America Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.1.0.12 running on 32-bit .NET Framework 4.0.30319.42000
+Program: C:\Users\epiedra\Documents\Databotv5\bin\Debug\DataBotV5.exe
+Working directory: C:\Users\epiedra\Documents\Databotv5\bin\Debug
+Operating system: Windows 10 Professional 64-bit 
+Processor: 8x AMD64 (or x64)
+SAP release: 753, Kernel release: 753, Kernel patch level: 727
+Hostname: E14-EPIEDRA, IP address: 10.7.40.59, IP_v6 address: fe80::664f:46e2:3d68:2871
+
+Default trace level: None
+
+>> Error entry 2022-06-06 19:31:26.045 [Thread 1]
+[ASHOST=10.7.11.113 SYSNR=00 USER=RPAUSER PASSWD=******** CLIENT=460 LANG=EN SYSID=QAS NAME=NSP460]
+SAP.Middleware.Connector.RfcAbapRuntimeException: Function module "DIALOG_SET_NO_DIALOG" not found.
+   at SAP.Middleware.Connector.RfcFunction.RfcCallReceive(RfcConnection conn, RFCID rid)
+   at SAP.Middleware.Connector.RfcFunction.RfcCallReceive(RfcConnection conn)
+   at SAP.Middleware.Connector.RfcFunction.Invoke(RfcDestination destination)
+   at DataBotV5.Automation.WEB.CrBids.SetBidSS.CreateOpp(Dictionary`2 campos)
+   at DataBotV5.Automation.WEB.CrBids.SetBidSS.Participate(DataTable concursos)
+   at DataBotV5.Automation.WEB.CrBids.SetBidSS.Main()
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at DataBotV5.App.ConsoleApp.Start.RunMethod(DataRow x, String enviroment)
+   at DataBotV5.App.ConsoleApp.Start.<>c__DisplayClass3_0.<Main>b__0(DataRow DataRow)
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at DataBotV5.App.ConsoleApp.Start.Main()
+>> Error entry 2022-06-06 19:35:49.151 [Thread 1]
+[ASHOST=10.7.11.113 SYSNR=00 USER=RPAUSER PASSWD=******** CLIENT=460 LANG=EN SYSID=QAS NAME=NSP460]
+SAP.Middleware.Connector.RfcAbapRuntimeException: Function module "DIALOG_SET_NO_DIALOG" not found.
+   at SAP.Middleware.Connector.RfcFunction.RfcCallReceive(RfcConnection conn, RFCID rid)
+   at SAP.Middleware.Connector.RfcFunction.RfcCallReceive(RfcConnection conn)
+   at SAP.Middleware.Connector.RfcFunction.Invoke(RfcDestination destination)
+   at DataBotV5.Automation.WEB.CrBids.SetBidSS.CreateOpp(Dictionary`2 campos)
+   at DataBotV5.Automation.WEB.CrBids.SetBidSS.Participate(DataTable concursos)
+   at DataBotV5.Automation.WEB.CrBids.SetBidSS.Main()
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at DataBotV5.App.ConsoleApp.Start.RunMethod(DataRow x, String enviroment)
+   at DataBotV5.App.ConsoleApp.Start.<>c__DisplayClass3_0.<Main>b__0(DataRow DataRow)
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at DataBotV5.App.ConsoleApp.Start.Main()
+
+**** Log file opened by process 2104 at 2022-06-07 09:30:24 (UTC-06:00 Central America Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.1.0.12 running on 32-bit .NET Framework 4.0.30319.42000
+Program: C:\Users\epiedra\Documents\Databotv5\bin\Debug\DataBotV5.exe
+Working directory: C:\Users\epiedra\Documents\Databotv5\bin\Debug
+Operating system: Windows 10 Professional 64-bit 
+Processor: 8x AMD64 (or x64)
+SAP release: 753, Kernel release: 753, Kernel patch level: 727
+Hostname: E14-EPIEDRA, IP address: 10.7.40.72, IP_v6 address: fe80::2cb2:a9d9:653a:a791
+
+Default trace level: None
+
+>> Error entry 2022-06-07 09:30:24.705 [Thread 1]
+[ASHOST=10.7.11.113 SYSNR=00 USER=RPAUSER PASSWD=******** CLIENT=460 LANG=EN SYSID=QAS NAME=NSP460]
+SAP.Middleware.Connector.RfcAbapRuntimeException: Function module "DIALOG_SET_NO_DIALOG" not found.
+   at SAP.Middleware.Connector.RfcFunction.RfcCallReceive(RfcConnection conn, RFCID rid)
+   at SAP.Middleware.Connector.RfcFunction.RfcCallReceive(RfcConnection conn)
+   at SAP.Middleware.Connector.RfcFunction.Invoke(RfcDestination destination)
+   at DataBotV5.Automation.WEB.CrBids.SetBidSS.CreateOpp(Dictionary`2 campos) in C:\Users\epiedra\Documents\Databotv5\Automation\WEB\CrBids\SetBidSS.cs:line 416
+   at DataBotV5.Automation.WEB.CrBids.SetBidSS.Participate(DataTable concursos) in C:\Users\epiedra\Documents\Databotv5\Automation\WEB\CrBids\SetBidSS.cs:line 285
+   at DataBotV5.Automation.WEB.CrBids.SetBidSS.Main() in C:\Users\epiedra\Documents\Databotv5\Automation\WEB\CrBids\SetBidSS.cs:line 64
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at DataBotV5.App.ConsoleApp.Start.RunMethod(DataRow x, String enviroment) in C:\Users\epiedra\Documents\Databotv5\App\ConsoleApp\Start.cs:line 215
+   at DataBotV5.App.ConsoleApp.Start.<>c__DisplayClass3_0.<Main>b__0(DataRow DataRow) in C:\Users\epiedra\Documents\Databotv5\App\ConsoleApp\Start.cs:line 117
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at DataBotV5.App.ConsoleApp.Start.Main() in C:\Users\epiedra\Documents\Databotv5\App\ConsoleApp\Start.cs:line 108
+
+**** Log file opened by process 15112 at 2022-06-07 10:46:29 (UTC-06:00 Central America Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.1.0.12 running on 32-bit .NET Framework 4.0.30319.42000
+Program: C:\Users\epiedra\Documents\Databotv5\bin\Debug\DataBotV5.exe
+Working directory: C:\Users\epiedra\Documents\Databotv5\bin\Debug
+Operating system: Windows 10 Professional 64-bit 
+Processor: 8x AMD64 (or x64)
+SAP release: 753, Kernel release: 753, Kernel patch level: 727
+Hostname: E14-EPIEDRA, IP address: 10.7.40.72, IP_v6 address: fe80::2cb2:a9d9:653a:a791
+
+Default trace level: None
+
+>> Error entry 2022-06-07 10:46:29.510 [Thread 1]
+[ASHOST=10.7.11.113 SYSNR=00 USER=RPAUSER PASSWD=******** CLIENT=460 LANG=EN SYSID=QAS NAME=NSP460]
+SAP.Middleware.Connector.RfcAbapRuntimeException: Function module "DIALOG_SET_NO_DIALOG" not found.
+   at SAP.Middleware.Connector.RfcFunction.RfcCallReceive(RfcConnection conn, RFCID rid)
+   at SAP.Middleware.Connector.RfcFunction.RfcCallReceive(RfcConnection conn)
+   at SAP.Middleware.Connector.RfcFunction.Invoke(RfcDestination destination)
+   at DataBotV5.Automation.WEB.CrBids.SetBidSS.CreateOpp(Dictionary`2 campos) in C:\Users\epiedra\Documents\Databotv5\Automation\WEB\CrBids\SetBidSS.cs:line 416
+   at DataBotV5.Automation.WEB.CrBids.SetBidSS.Participate(DataTable concursos) in C:\Users\epiedra\Documents\Databotv5\Automation\WEB\CrBids\SetBidSS.cs:line 285
+   at DataBotV5.Automation.WEB.CrBids.SetBidSS.Main() in C:\Users\epiedra\Documents\Databotv5\Automation\WEB\CrBids\SetBidSS.cs:line 64
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at DataBotV5.App.ConsoleApp.Start.RunMethod(DataRow x, String enviroment) in C:\Users\epiedra\Documents\Databotv5\App\ConsoleApp\Start.cs:line 215
+   at DataBotV5.App.ConsoleApp.Start.<>c__DisplayClass3_0.<Main>b__0(DataRow DataRow) in C:\Users\epiedra\Documents\Databotv5\App\ConsoleApp\Start.cs:line 117
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at DataBotV5.App.ConsoleApp.Start.Main() in C:\Users\epiedra\Documents\Databotv5\App\ConsoleApp\Start.cs:line 108
+
+**** Log file opened by process 57556 at 2022-10-23 20:27:07 (UTC-05:00 Central Daylight Time)
+
+SAP .NET Connector 3.0 with file version 3.1.0.12 running on 32-bit .NET Framework 4.0.30319.42000
+Program: C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\DataBotV5.exe
+Working directory: C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug
+Operating system: Windows 10 Professional 64-bit 
+Processor: 8x AMD64 (or x64)
+SAP release: 753, Kernel release: 753, Kernel patch level: 727
+Hostname: T14-DMEZA, IP address: 10.7.40.12, IP_v6 address: fe80::592d:4223:3d9b:83f5
+
+Default trace level: None
+
+>> Error entry 2022-10-23 20:27:07.673 [Thread 1]
+[ASHOST=10.7.11.117 SYSNR=00 USER=RPAUSER PASSWD=******** CLIENT=260 LANG=EN SYSID=QAS NAME=NSP260]
+SAP.Middleware.Connector.RfcInvalidStateException: metadata for function ZFI_BS_ADD_IBM_CONTRACT_NUM not available: FU_NOT_FOUND: Function module ZFI_BS_ADD_IBM_CONTRACT_NUM does not exist
+   at SAP.Middleware.Connector.RfcRepository.LookupFunctionMetadataNew(String name)
+   at SAP.Middleware.Connector.RfcRepository.LookupFunctionMetadata(String name)
+   at SAP.Middleware.Connector.RfcRepository.GetFunctionMetadata(String name, Boolean reload)
+   at SAP.Middleware.Connector.RfcRepository.GetFunctionMetadata(String name)
+   at SAP.Middleware.Connector.RfcRepository.CreateFunction(String name)
+   at DataBotV5.Data.SAP.SapVariants.ExecuteRFC(Int32 mandante, String FunctionModule, Dictionary`2 parametros) in C:\Users\dmeza\Documents\GitHub\Databotv5\Data\SAP\SapVariants.cs:line 456
+   at DataBotV5.Automation.QAS.IbmContractNumber.SetIbmIdNumber.Process(String body) in C:\Users\dmeza\Documents\GitHub\Databotv5\Automation\QAS\IbmContractNumber\SetIbmIdNumber.cs:line 177
+   at DataBotV5.Automation.QAS.IbmContractNumber.SetIbmIdNumber.Main() in C:\Users\dmeza\Documents\GitHub\Databotv5\Automation\QAS\IbmContractNumber\SetIbmIdNumber.cs:line 43
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at DataBotV5.App.ConsoleApp.Start.RunMethod(DataRow x, String enviroment) in C:\Users\dmeza\Documents\GitHub\Databotv5\App\ConsoleApp\Start.cs:line 216
+   at DataBotV5.App.ConsoleApp.Start.<>c__DisplayClass3_0.<Main>b__0(DataRow DataRow) in C:\Users\dmeza\Documents\GitHub\Databotv5\App\ConsoleApp\Start.cs:line 117
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at DataBotV5.App.ConsoleApp.Start.Main() in C:\Users\dmeza\Documents\GitHub\Databotv5\App\ConsoleApp\Start.cs:line 108
+>> Error entry 2022-10-23 20:27:07.691 [Thread 1]
+SAP.Middleware.Connector.RfcInvalidStateException: metadata for function ZFI_BS_ADD_IBM_CONTRACT_NUM not available: FU_NOT_FOUND: Function module ZFI_BS_ADD_IBM_CONTRACT_NUM does not exist
+   at SAP.Middleware.Connector.RfcRepository.LookupFunctionMetadataNew(String name)
+   at SAP.Middleware.Connector.RfcRepository.LookupFunctionMetadata(String name)
+   at SAP.Middleware.Connector.RfcRepository.GetFunctionMetadata(String name, Boolean reload)
+   at SAP.Middleware.Connector.RfcRepository.GetFunctionMetadata(String name)
+   at SAP.Middleware.Connector.RfcRepository.CreateFunction(String name)
+   at DataBotV5.Data.SAP.SapVariants.ExecuteRFC(Int32 mandante, String FunctionModule, Dictionary`2 parametros) in C:\Users\dmeza\Documents\GitHub\Databotv5\Data\SAP\SapVariants.cs:line 456
+   at DataBotV5.Automation.QAS.IbmContractNumber.SetIbmIdNumber.Process(String body) in C:\Users\dmeza\Documents\GitHub\Databotv5\Automation\QAS\IbmContractNumber\SetIbmIdNumber.cs:line 177
+   at DataBotV5.Automation.QAS.IbmContractNumber.SetIbmIdNumber.Main() in C:\Users\dmeza\Documents\GitHub\Databotv5\Automation\QAS\IbmContractNumber\SetIbmIdNumber.cs:line 43
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at DataBotV5.App.ConsoleApp.Start.RunMethod(DataRow x, String enviroment) in C:\Users\dmeza\Documents\GitHub\Databotv5\App\ConsoleApp\Start.cs:line 216
+   at DataBotV5.App.ConsoleApp.Start.<>c__DisplayClass3_0.<Main>b__0(DataRow DataRow) in C:\Users\dmeza\Documents\GitHub\Databotv5\App\ConsoleApp\Start.cs:line 117
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at DataBotV5.App.ConsoleApp.Start.Main() in C:\Users\dmeza\Documents\GitHub\Databotv5\App\ConsoleApp\Start.cs:line 108
+>> Error entry 2022-10-23 20:28:05.646 [Thread 1]
+[ASHOST=10.7.11.117 SYSNR=00 USER=RPAUSER PASSWD=******** CLIENT=260 LANG=EN SYSID=QAS NAME=NSP260]
+SAP.Middleware.Connector.RfcInvalidStateException: metadata for function ZFI_BS_ADD_IBM_CONTRACT_NUM not available: FU_NOT_FOUND: Function module ZFI_BS_ADD_IBM_CONTRACT_NUM does not exist
+   at SAP.Middleware.Connector.RfcRepository.LookupFunctionMetadataNew(String name)
+   at SAP.Middleware.Connector.RfcRepository.LookupFunctionMetadata(String name)
+   at SAP.Middleware.Connector.RfcRepository.GetFunctionMetadata(String name, Boolean reload)
+   at SAP.Middleware.Connector.RfcRepository.GetFunctionMetadata(String name)
+   at SAP.Middleware.Connector.RfcRepository.CreateFunction(String name)
+   at DataBotV5.Data.SAP.SapVariants.ExecuteRFC(Int32 mandante, String FunctionModule, Dictionary`2 parametros) in C:\Users\dmeza\Documents\GitHub\Databotv5\Data\SAP\SapVariants.cs:line 456
+   at DataBotV5.Automation.QAS.IbmContractNumber.SetIbmIdNumber.Process(String body) in C:\Users\dmeza\Documents\GitHub\Databotv5\Automation\QAS\IbmContractNumber\SetIbmIdNumber.cs:line 177
+   at DataBotV5.Automation.QAS.IbmContractNumber.SetIbmIdNumber.Main() in C:\Users\dmeza\Documents\GitHub\Databotv5\Automation\QAS\IbmContractNumber\SetIbmIdNumber.cs:line 43
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at DataBotV5.App.ConsoleApp.Start.RunMethod(DataRow x, String enviroment) in C:\Users\dmeza\Documents\GitHub\Databotv5\App\ConsoleApp\Start.cs:line 216
+   at DataBotV5.App.ConsoleApp.Start.<>c__DisplayClass3_0.<Main>b__0(DataRow DataRow) in C:\Users\dmeza\Documents\GitHub\Databotv5\App\ConsoleApp\Start.cs:line 117
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at DataBotV5.App.ConsoleApp.Start.Main() in C:\Users\dmeza\Documents\GitHub\Databotv5\App\ConsoleApp\Start.cs:line 108
+>> Error entry 2022-10-23 20:28:05.648 [Thread 1]
+SAP.Middleware.Connector.RfcInvalidStateException: metadata for function ZFI_BS_ADD_IBM_CONTRACT_NUM not available: FU_NOT_FOUND: Function module ZFI_BS_ADD_IBM_CONTRACT_NUM does not exist
+   at SAP.Middleware.Connector.RfcRepository.LookupFunctionMetadataNew(String name)
+   at SAP.Middleware.Connector.RfcRepository.LookupFunctionMetadata(String name)
+   at SAP.Middleware.Connector.RfcRepository.GetFunctionMetadata(String name, Boolean reload)
+   at SAP.Middleware.Connector.RfcRepository.GetFunctionMetadata(String name)
+   at SAP.Middleware.Connector.RfcRepository.CreateFunction(String name)
+   at DataBotV5.Data.SAP.SapVariants.ExecuteRFC(Int32 mandante, String FunctionModule, Dictionary`2 parametros) in C:\Users\dmeza\Documents\GitHub\Databotv5\Data\SAP\SapVariants.cs:line 456
+   at DataBotV5.Automation.QAS.IbmContractNumber.SetIbmIdNumber.Process(String body) in C:\Users\dmeza\Documents\GitHub\Databotv5\Automation\QAS\IbmContractNumber\SetIbmIdNumber.cs:line 177
+   at DataBotV5.Automation.QAS.IbmContractNumber.SetIbmIdNumber.Main() in C:\Users\dmeza\Documents\GitHub\Databotv5\Automation\QAS\IbmContractNumber\SetIbmIdNumber.cs:line 43
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at DataBotV5.App.ConsoleApp.Start.RunMethod(DataRow x, String enviroment) in C:\Users\dmeza\Documents\GitHub\Databotv5\App\ConsoleApp\Start.cs:line 216
+   at DataBotV5.App.ConsoleApp.Start.<>c__DisplayClass3_0.<Main>b__0(DataRow DataRow) in C:\Users\dmeza\Documents\GitHub\Databotv5\App\ConsoleApp\Start.cs:line 117
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at DataBotV5.App.ConsoleApp.Start.Main() in C:\Users\dmeza\Documents\GitHub\Databotv5\App\ConsoleApp\Start.cs:line 108
+
+**** Log file opened by process 54076 at 2022-10-23 20:32:26 (UTC-05:00 Central Daylight Time)
+
+SAP .NET Connector 3.0 with file version 3.1.0.12 running on 32-bit .NET Framework 4.0.30319.42000
+Program: C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\DataBotV5.exe
+Working directory: C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug
+Operating system: Windows 10 Professional 64-bit 
+Processor: 8x AMD64 (or x64)
+SAP release: 753, Kernel release: 753, Kernel patch level: 727
+Hostname: T14-DMEZA, IP address: 10.7.40.12, IP_v6 address: fe80::592d:4223:3d9b:83f5
+
+Default trace level: None
+
+>> Error entry 2022-10-23 20:32:26.329 [Thread 1]
+[ASHOST=10.7.11.111 SYSNR=00 USER=RPAUSER PASSWD=******** CLIENT=120 LANG=EN SYSID=DEV NAME=NSP120]
+SAP.Middleware.Connector.RfcAbapRuntimeException: Function module "ZFI_BS_ADD_IBM_CONTRACT_NUM" cannot be used for 'remote' calls.
+   at SAP.Middleware.Connector.RfcFunction.RfcCallReceive(RfcConnection conn, RFCID rid)
+   at SAP.Middleware.Connector.RfcFunction.RfcCallReceive(RfcConnection conn)
+   at SAP.Middleware.Connector.RfcFunction.Invoke(RfcDestination destination)
+   at DataBotV5.Data.SAP.SapVariants.ExecuteRFC(Int32 mandante, String FunctionModule, Dictionary`2 parametros) in C:\Users\dmeza\Documents\GitHub\Databotv5\Data\SAP\SapVariants.cs:line 468
+   at DataBotV5.Automation.QAS.IbmContractNumber.SetIbmIdNumber.Process(String body) in C:\Users\dmeza\Documents\GitHub\Databotv5\Automation\QAS\IbmContractNumber\SetIbmIdNumber.cs:line 177
+   at DataBotV5.Automation.QAS.IbmContractNumber.SetIbmIdNumber.Main() in C:\Users\dmeza\Documents\GitHub\Databotv5\Automation\QAS\IbmContractNumber\SetIbmIdNumber.cs:line 43
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at DataBotV5.App.ConsoleApp.Start.RunMethod(DataRow x, String enviroment) in C:\Users\dmeza\Documents\GitHub\Databotv5\App\ConsoleApp\Start.cs:line 216
+   at DataBotV5.App.ConsoleApp.Start.<>c__DisplayClass3_0.<Main>b__0(DataRow DataRow) in C:\Users\dmeza\Documents\GitHub\Databotv5\App\ConsoleApp\Start.cs:line 117
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at DataBotV5.App.ConsoleApp.Start.Main() in C:\Users\dmeza\Documents\GitHub\Databotv5\App\ConsoleApp\Start.cs:line 108
+
+**** Log file opened by process 32144 at 2023-10-19 18:41:09 (UTC-06:00 Central America Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.1.0.12 running on 32-bit .NET Framework 4.0.30319.42000
+Program: C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug\DataBotV5.exe
+Working directory: C:\Users\dmeza\Documents\GitHub\Databotv5\bin\Debug
+Operating system: Windows 10 Professional 64-bit 
+Processor: 8x AMD64 (or x64)
+SAP release: 753, Kernel release: 753, Kernel patch level: 727
+Hostname: T14-DMEZA, IP address: 10.7.41.64, IP_v6 address: fe80::17b0:df41:3022:77a8
+
+Default trace level: None
+
+>> Error entry 2023-10-19 18:41:09.725 [Thread 1]
+SAP.Middleware.Connector.RfcTypeConversionException: FIELD QUANTITY of TABLE ZDELIVERY_TT [STRUCTURE ZDELIVERY] (SETTER): cannot convert Boolean into INT1 ---> SAP.Middleware.Connector.RfcTypeConversionException: System.Boolean cannot be converted into INT1
+   at SAP.Middleware.Connector.RfcScalarMetadata.ConvertObject(Object value, Object& currentValue)
+   at SAP.Middleware.Connector.RfcDataContainer`1.SetValue(Int32 index, Object value)
+   --- End of inner exception stack trace ---
+   at SAP.Middleware.Connector.RfcDataContainer`1.SetValue(Int32 index, Object value)
+   at SAP.Middleware.Connector.RfcDataContainer`1.SetValue(String name, Object value)
+   at DataBotV5.Automation.RPA.Delivery.CreateDelivery.ProcessDelivery(String route)
+   at DataBotV5.Automation.RPA.Delivery.CreateDelivery.Main()
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at DataBotV5.App.ConsoleApp.Start.RunMethod(DataRow x, String enviroment)
+   at DataBotV5.App.ConsoleApp.Start.<>c__DisplayClass3_0.<Main>b__0(DataRow DataRow)
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at DataBotV5.App.ConsoleApp.Start.Main()
+
+**** Log file opened by process 7268 at 2024-02-28 14:29:27 (UTC-06:00 Central America Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.1.0.12 running on 32-bit .NET Framework 4.0.30319.42000
+Program: C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\DataBotV5.exe
+Working directory: C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug
+Operating system: Windows 10 Professional 64-bit 
+Processor: 8x AMD64 (or x64)
+SAP release: 753, Kernel release: 753, Kernel patch level: 727
+Hostname: T14-KUGALDE, IP address: 169.254.156.171, IP_v6 address: fe80::e1a3:42fa:f45b:2957
+
+Default trace level: None
+
+>> Error entry 2024-02-28 14:29:27.503 [Thread 1]
+Failure to create pool for destination NSP300 (ORIGINAL, user: null) [ASHOST=ecc-prod-app.gbm.net SYSNR=01 USER=rpauser PASSWD=******** CLIENT=300 LANG=EN SYSID=ECC NAME=NSP300]
+SAP.Middleware.Connector.RfcCommunicationException: 
+LOCATION    CPIC (TCP/IP) on local host T14-KUgalde with Unicode
+ERROR       hostname 'ecc-prod-app.gbm.net' unknown
+TIME        Wed Feb 28 14:29:27 2024
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      D:/depot/bas/753_REL/src/base/ni/ninti.c
+LINE        898
+DETAIL      NiPGetHostByName: 'ecc-prod-app.gbm.net' not found
+SYSTEM CALL getaddrinfo
+COUNTER     2
+
+RETURN CODE: 20
+   at SAP.Middleware.Connector.CpicConnection.ConnectAsClient(Dictionary`2 options, Boolean forRepository)
+   at SAP.Middleware.Connector.CpicDriver.ConnectAsClient(Dictionary`2 options, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+   at SAP.Middleware.Connector.RfcConnectionPool.GetPool(RfcDestination destination, Boolean forRepository, Boolean create)
+   at SAP.Middleware.Connector.RfcDestination.GetClient(Boolean forRepository)
+   at SAP.Middleware.Connector.RfcDestination.SetAttributeValues()
+   at SAP.Middleware.Connector.RfcDestination.get_SystemAttributes()
+   at SAP.Middleware.Connector.RfcRepository.GetRepositoryForDestination(RfcDestination destination)
+   at SAP.Middleware.Connector.RfcDestination.get_Repository()
+   at DataBotV5.Automation.RPA.Delivery.CreateDelivery.ProcessDelivery() in C:\Users\kugalde\Documents\New folder\DataBotV5\Automation\RPA\Delivery\CreateDelivery.cs:line 84
+   at DataBotV5.Automation.RPA.Delivery.CreateDelivery.Main() in C:\Users\kugalde\Documents\New folder\DataBotV5\Automation\RPA\Delivery\CreateDelivery.cs:line 53
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at DataBotV5.App.ConsoleApp.Start.RunMethod(DataRow x, String enviroment) in C:\Users\kugalde\Documents\New folder\DataBotV5\App\ConsoleApp\Start.cs:line 244
+   at DataBotV5.App.ConsoleApp.Start.<>c__DisplayClass3_0.<Main>b__0(DataRow DataRow) in C:\Users\kugalde\Documents\New folder\DataBotV5\App\ConsoleApp\Start.cs:line 138
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at DataBotV5.App.ConsoleApp.Start.Main() in C:\Users\kugalde\Documents\New folder\DataBotV5\App\ConsoleApp\Start.cs:line 129
+>> Error entry 2024-02-28 14:29:27.636 [Thread 1]
+[ASHOST=ecc-prod-app.gbm.net SYSNR=01 USER=rpauser PASSWD=******** CLIENT=300 LANG=EN SYSID=ECC NAME=NSP300]
+SAP.Middleware.Connector.RfcCommunicationException: 
+LOCATION    CPIC (TCP/IP) on local host T14-KUgalde with Unicode
+ERROR       hostname 'ecc-prod-app.gbm.net' unknown
+TIME        Wed Feb 28 14:29:27 2024
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      D:/depot/bas/753_REL/src/base/ni/ninti.c
+LINE        898
+DETAIL      NiPGetHostByName: 'ecc-prod-app.gbm.net' not found
+SYSTEM CALL getaddrinfo
+COUNTER     2
+
+RETURN CODE: 20
+   at SAP.Middleware.Connector.CpicConnection.ConnectAsClient(Dictionary`2 options, Boolean forRepository)
+   at SAP.Middleware.Connector.CpicDriver.ConnectAsClient(Dictionary`2 options, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+   at SAP.Middleware.Connector.RfcConnectionPool.GetPool(RfcDestination destination, Boolean forRepository, Boolean create)
+   at SAP.Middleware.Connector.RfcDestination.GetClient(Boolean forRepository)
+   at SAP.Middleware.Connector.RfcDestination.SetAttributeValues()
+   at SAP.Middleware.Connector.RfcDestination.get_SystemAttributes()
+   at SAP.Middleware.Connector.RfcRepository.GetRepositoryForDestination(RfcDestination destination)
+   at SAP.Middleware.Connector.RfcDestination.get_Repository()
+   at DataBotV5.Automation.RPA.Delivery.CreateDelivery.ProcessDelivery() in C:\Users\kugalde\Documents\New folder\DataBotV5\Automation\RPA\Delivery\CreateDelivery.cs:line 84
+   at DataBotV5.Automation.RPA.Delivery.CreateDelivery.Main() in C:\Users\kugalde\Documents\New folder\DataBotV5\Automation\RPA\Delivery\CreateDelivery.cs:line 53
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at DataBotV5.App.ConsoleApp.Start.RunMethod(DataRow x, String enviroment) in C:\Users\kugalde\Documents\New folder\DataBotV5\App\ConsoleApp\Start.cs:line 244
+   at DataBotV5.App.ConsoleApp.Start.<>c__DisplayClass3_0.<Main>b__0(DataRow DataRow) in C:\Users\kugalde\Documents\New folder\DataBotV5\App\ConsoleApp\Start.cs:line 138
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at DataBotV5.App.ConsoleApp.Start.Main() in C:\Users\kugalde\Documents\New folder\DataBotV5\App\ConsoleApp\Start.cs:line 129
+>> Error entry 2024-02-28 14:29:27.637 [Thread 1]
+SAP.Middleware.Connector.RfcCommunicationException: 
+LOCATION    CPIC (TCP/IP) on local host T14-KUgalde with Unicode
+ERROR       hostname 'ecc-prod-app.gbm.net' unknown
+TIME        Wed Feb 28 14:29:27 2024
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      D:/depot/bas/753_REL/src/base/ni/ninti.c
+LINE        898
+DETAIL      NiPGetHostByName: 'ecc-prod-app.gbm.net' not found
+SYSTEM CALL getaddrinfo
+COUNTER     2
+
+RETURN CODE: 20
+   at SAP.Middleware.Connector.CpicConnection.ConnectAsClient(Dictionary`2 options, Boolean forRepository)
+   at SAP.Middleware.Connector.CpicDriver.ConnectAsClient(Dictionary`2 options, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+   at SAP.Middleware.Connector.RfcConnectionPool.GetPool(RfcDestination destination, Boolean forRepository, Boolean create)
+   at SAP.Middleware.Connector.RfcDestination.GetClient(Boolean forRepository)
+   at SAP.Middleware.Connector.RfcDestination.SetAttributeValues()
+   at SAP.Middleware.Connector.RfcDestination.get_SystemAttributes()
+   at SAP.Middleware.Connector.RfcRepository.GetRepositoryForDestination(RfcDestination destination)
+   at SAP.Middleware.Connector.RfcDestination.get_Repository()
+   at DataBotV5.Automation.RPA.Delivery.CreateDelivery.ProcessDelivery() in C:\Users\kugalde\Documents\New folder\DataBotV5\Automation\RPA\Delivery\CreateDelivery.cs:line 84
+   at DataBotV5.Automation.RPA.Delivery.CreateDelivery.Main() in C:\Users\kugalde\Documents\New folder\DataBotV5\Automation\RPA\Delivery\CreateDelivery.cs:line 53
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at DataBotV5.App.ConsoleApp.Start.RunMethod(DataRow x, String enviroment) in C:\Users\kugalde\Documents\New folder\DataBotV5\App\ConsoleApp\Start.cs:line 244
+   at DataBotV5.App.ConsoleApp.Start.<>c__DisplayClass3_0.<Main>b__0(DataRow DataRow) in C:\Users\kugalde\Documents\New folder\DataBotV5\App\ConsoleApp\Start.cs:line 138
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at DataBotV5.App.ConsoleApp.Start.Main() in C:\Users\kugalde\Documents\New folder\DataBotV5\App\ConsoleApp\Start.cs:line 129
+>> Error entry 2024-02-28 14:29:28.485 [Thread 1]
+Failure to create pool for destination NSP300 (ORIGINAL, user: null) [ASHOST=ecc-prod-app.gbm.net SYSNR=01 USER=rpauser PASSWD=******** CLIENT=300 LANG=EN SYSID=ECC NAME=NSP300]
+SAP.Middleware.Connector.RfcCommunicationException: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       hostname 'ecc-prod-app.gbm.net' unknown
+TIME        Wed Feb 28 14:29:28 2024
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxhl.cpp
+LINE        198
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     4
+
+RETURN CODE: 20
+   at SAP.Middleware.Connector.CpicConnection.ConnectAsClient(Dictionary`2 options, Boolean forRepository)
+   at SAP.Middleware.Connector.CpicDriver.ConnectAsClient(Dictionary`2 options, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+   at SAP.Middleware.Connector.RfcConnectionPool.GetPool(RfcDestination destination, Boolean forRepository, Boolean create)
+   at SAP.Middleware.Connector.RfcDestination.GetClient(Boolean forRepository)
+   at SAP.Middleware.Connector.RfcDestination.SetAttributeValues()
+   at SAP.Middleware.Connector.RfcDestination.get_SystemAttributes()
+   at SAP.Middleware.Connector.RfcRepository.GetRepositoryForDestination(RfcDestination destination)
+   at SAP.Middleware.Connector.RfcDestination.get_Repository()
+   at SAP.Middleware.Connector.RfcRepository.GetRepositoryForDestination(RfcDestination destination)
+   at SAP.Middleware.Connector.RfcDestination.get_Repository()
+   at DataBotV5.Automation.RPA.Delivery.CreateDelivery.ProcessDelivery() in C:\Users\kugalde\Documents\New folder\DataBotV5\Automation\RPA\Delivery\CreateDelivery.cs:line 84
+   at DataBotV5.Automation.RPA.Delivery.CreateDelivery.Main() in C:\Users\kugalde\Documents\New folder\DataBotV5\Automation\RPA\Delivery\CreateDelivery.cs:line 53
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at DataBotV5.App.ConsoleApp.Start.RunMethod(DataRow x, String enviroment) in C:\Users\kugalde\Documents\New folder\DataBotV5\App\ConsoleApp\Start.cs:line 244
+   at DataBotV5.App.ConsoleApp.Start.<>c__DisplayClass3_0.<Main>b__0(DataRow DataRow) in C:\Users\kugalde\Documents\New folder\DataBotV5\App\ConsoleApp\Start.cs:line 138
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at DataBotV5.App.ConsoleApp.Start.Main() in C:\Users\kugalde\Documents\New folder\DataBotV5\App\ConsoleApp\Start.cs:line 129
+>> Error entry 2024-02-28 14:29:28.486 [Thread 1]
+[ASHOST=ecc-prod-app.gbm.net SYSNR=01 USER=rpauser PASSWD=******** CLIENT=300 LANG=EN SYSID=ECC NAME=NSP300]
+SAP.Middleware.Connector.RfcCommunicationException: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       hostname 'ecc-prod-app.gbm.net' unknown
+TIME        Wed Feb 28 14:29:28 2024
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxhl.cpp
+LINE        198
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     4
+
+RETURN CODE: 20
+   at SAP.Middleware.Connector.CpicConnection.ConnectAsClient(Dictionary`2 options, Boolean forRepository)
+   at SAP.Middleware.Connector.CpicDriver.ConnectAsClient(Dictionary`2 options, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+   at SAP.Middleware.Connector.RfcConnectionPool.GetPool(RfcDestination destination, Boolean forRepository, Boolean create)
+   at SAP.Middleware.Connector.RfcDestination.GetClient(Boolean forRepository)
+   at SAP.Middleware.Connector.RfcDestination.SetAttributeValues()
+   at SAP.Middleware.Connector.RfcDestination.get_SystemAttributes()
+   at SAP.Middleware.Connector.RfcRepository.GetRepositoryForDestination(RfcDestination destination)
+   at SAP.Middleware.Connector.RfcDestination.get_Repository()
+   at SAP.Middleware.Connector.RfcRepository.GetRepositoryForDestination(RfcDestination destination)
+   at SAP.Middleware.Connector.RfcDestination.get_Repository()
+   at DataBotV5.Automation.RPA.Delivery.CreateDelivery.ProcessDelivery() in C:\Users\kugalde\Documents\New folder\DataBotV5\Automation\RPA\Delivery\CreateDelivery.cs:line 84
+   at DataBotV5.Automation.RPA.Delivery.CreateDelivery.Main() in C:\Users\kugalde\Documents\New folder\DataBotV5\Automation\RPA\Delivery\CreateDelivery.cs:line 53
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at DataBotV5.App.ConsoleApp.Start.RunMethod(DataRow x, String enviroment) in C:\Users\kugalde\Documents\New folder\DataBotV5\App\ConsoleApp\Start.cs:line 244
+   at DataBotV5.App.ConsoleApp.Start.<>c__DisplayClass3_0.<Main>b__0(DataRow DataRow) in C:\Users\kugalde\Documents\New folder\DataBotV5\App\ConsoleApp\Start.cs:line 138
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at DataBotV5.App.ConsoleApp.Start.Main() in C:\Users\kugalde\Documents\New folder\DataBotV5\App\ConsoleApp\Start.cs:line 129
+>> Error entry 2024-02-28 14:29:28.487 [Thread 1]
+SAP.Middleware.Connector.RfcCommunicationException: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       hostname 'ecc-prod-app.gbm.net' unknown
+TIME        Wed Feb 28 14:29:28 2024
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxhl.cpp
+LINE        198
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     4
+
+RETURN CODE: 20
+   at SAP.Middleware.Connector.CpicConnection.ConnectAsClient(Dictionary`2 options, Boolean forRepository)
+   at SAP.Middleware.Connector.CpicDriver.ConnectAsClient(Dictionary`2 options, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+   at SAP.Middleware.Connector.RfcConnectionPool.GetPool(RfcDestination destination, Boolean forRepository, Boolean create)
+   at SAP.Middleware.Connector.RfcDestination.GetClient(Boolean forRepository)
+   at SAP.Middleware.Connector.RfcDestination.SetAttributeValues()
+   at SAP.Middleware.Connector.RfcDestination.get_SystemAttributes()
+   at SAP.Middleware.Connector.RfcRepository.GetRepositoryForDestination(RfcDestination destination)
+   at SAP.Middleware.Connector.RfcDestination.get_Repository()
+   at SAP.Middleware.Connector.RfcRepository.GetRepositoryForDestination(RfcDestination destination)
+   at SAP.Middleware.Connector.RfcDestination.get_Repository()
+   at DataBotV5.Automation.RPA.Delivery.CreateDelivery.ProcessDelivery() in C:\Users\kugalde\Documents\New folder\DataBotV5\Automation\RPA\Delivery\CreateDelivery.cs:line 84
+   at DataBotV5.Automation.RPA.Delivery.CreateDelivery.Main() in C:\Users\kugalde\Documents\New folder\DataBotV5\Automation\RPA\Delivery\CreateDelivery.cs:line 53
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at DataBotV5.App.ConsoleApp.Start.RunMethod(DataRow x, String enviroment) in C:\Users\kugalde\Documents\New folder\DataBotV5\App\ConsoleApp\Start.cs:line 244
+   at DataBotV5.App.ConsoleApp.Start.<>c__DisplayClass3_0.<Main>b__0(DataRow DataRow) in C:\Users\kugalde\Documents\New folder\DataBotV5\App\ConsoleApp\Start.cs:line 138
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at DataBotV5.App.ConsoleApp.Start.Main() in C:\Users\kugalde\Documents\New folder\DataBotV5\App\ConsoleApp\Start.cs:line 129
+>> Error entry 2024-02-28 14:30:08.999 [Thread 1]
+Failure to create pool for destination NSP300 (ORIGINAL, user: null) [ASHOST=ecc-prod-app.gbm.net SYSNR=01 USER=rpauser PASSWD=******** CLIENT=300 LANG=EN SYSID=ECC NAME=NSP300]
+SAP.Middleware.Connector.RfcCommunicationException: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       hostname 'ecc-prod-app.gbm.net' unknown
+TIME        Wed Feb 28 14:30:08 2024
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxhl.cpp
+LINE        198
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     6
+
+RETURN CODE: 20
+   at SAP.Middleware.Connector.CpicConnection.ConnectAsClient(Dictionary`2 options, Boolean forRepository)
+   at SAP.Middleware.Connector.CpicDriver.ConnectAsClient(Dictionary`2 options, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+   at SAP.Middleware.Connector.RfcConnectionPool.GetPool(RfcDestination destination, Boolean forRepository, Boolean create)
+   at SAP.Middleware.Connector.RfcDestination.GetClient(Boolean forRepository)
+   at SAP.Middleware.Connector.RfcDestination.SetAttributeValues()
+   at SAP.Middleware.Connector.RfcDestination.get_SystemAttributes()
+   at SAP.Middleware.Connector.RfcRepository.GetRepositoryForDestination(RfcDestination destination)
+   at SAP.Middleware.Connector.RfcDestination.get_Repository()
+   at SAP.Middleware.Connector.RfcRepository.GetRepositoryForDestination(RfcDestination destination)
+   at SAP.Middleware.Connector.RfcDestination.get_Repository()
+   at DataBotV5.Automation.RPA.Delivery.CreateDelivery.ProcessDelivery() in C:\Users\kugalde\Documents\New folder\DataBotV5\Automation\RPA\Delivery\CreateDelivery.cs:line 84
+   at DataBotV5.Automation.RPA.Delivery.CreateDelivery.Main() in C:\Users\kugalde\Documents\New folder\DataBotV5\Automation\RPA\Delivery\CreateDelivery.cs:line 53
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at DataBotV5.App.ConsoleApp.Start.RunMethod(DataRow x, String enviroment) in C:\Users\kugalde\Documents\New folder\DataBotV5\App\ConsoleApp\Start.cs:line 244
+   at DataBotV5.App.ConsoleApp.Start.<>c__DisplayClass3_0.<Main>b__0(DataRow DataRow) in C:\Users\kugalde\Documents\New folder\DataBotV5\App\ConsoleApp\Start.cs:line 138
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at DataBotV5.App.ConsoleApp.Start.Main() in C:\Users\kugalde\Documents\New folder\DataBotV5\App\ConsoleApp\Start.cs:line 129
+>> Error entry 2024-02-28 14:30:08.999 [Thread 1]
+[ASHOST=ecc-prod-app.gbm.net SYSNR=01 USER=rpauser PASSWD=******** CLIENT=300 LANG=EN SYSID=ECC NAME=NSP300]
+SAP.Middleware.Connector.RfcCommunicationException: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       hostname 'ecc-prod-app.gbm.net' unknown
+TIME        Wed Feb 28 14:30:08 2024
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxhl.cpp
+LINE        198
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     6
+
+RETURN CODE: 20
+   at SAP.Middleware.Connector.CpicConnection.ConnectAsClient(Dictionary`2 options, Boolean forRepository)
+   at SAP.Middleware.Connector.CpicDriver.ConnectAsClient(Dictionary`2 options, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+   at SAP.Middleware.Connector.RfcConnectionPool.GetPool(RfcDestination destination, Boolean forRepository, Boolean create)
+   at SAP.Middleware.Connector.RfcDestination.GetClient(Boolean forRepository)
+   at SAP.Middleware.Connector.RfcDestination.SetAttributeValues()
+   at SAP.Middleware.Connector.RfcDestination.get_SystemAttributes()
+   at SAP.Middleware.Connector.RfcRepository.GetRepositoryForDestination(RfcDestination destination)
+   at SAP.Middleware.Connector.RfcDestination.get_Repository()
+   at SAP.Middleware.Connector.RfcRepository.GetRepositoryForDestination(RfcDestination destination)
+   at SAP.Middleware.Connector.RfcDestination.get_Repository()
+   at DataBotV5.Automation.RPA.Delivery.CreateDelivery.ProcessDelivery() in C:\Users\kugalde\Documents\New folder\DataBotV5\Automation\RPA\Delivery\CreateDelivery.cs:line 84
+   at DataBotV5.Automation.RPA.Delivery.CreateDelivery.Main() in C:\Users\kugalde\Documents\New folder\DataBotV5\Automation\RPA\Delivery\CreateDelivery.cs:line 53
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at DataBotV5.App.ConsoleApp.Start.RunMethod(DataRow x, String enviroment) in C:\Users\kugalde\Documents\New folder\DataBotV5\App\ConsoleApp\Start.cs:line 244
+   at DataBotV5.App.ConsoleApp.Start.<>c__DisplayClass3_0.<Main>b__0(DataRow DataRow) in C:\Users\kugalde\Documents\New folder\DataBotV5\App\ConsoleApp\Start.cs:line 138
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at DataBotV5.App.ConsoleApp.Start.Main() in C:\Users\kugalde\Documents\New folder\DataBotV5\App\ConsoleApp\Start.cs:line 129
+>> Error entry 2024-02-28 14:30:09.001 [Thread 1]
+SAP.Middleware.Connector.RfcCommunicationException: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       hostname 'ecc-prod-app.gbm.net' unknown
+TIME        Wed Feb 28 14:30:08 2024
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxhl.cpp
+LINE        198
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     6
+
+RETURN CODE: 20
+   at SAP.Middleware.Connector.CpicConnection.ConnectAsClient(Dictionary`2 options, Boolean forRepository)
+   at SAP.Middleware.Connector.CpicDriver.ConnectAsClient(Dictionary`2 options, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+   at SAP.Middleware.Connector.RfcConnectionPool.GetPool(RfcDestination destination, Boolean forRepository, Boolean create)
+   at SAP.Middleware.Connector.RfcDestination.GetClient(Boolean forRepository)
+   at SAP.Middleware.Connector.RfcDestination.SetAttributeValues()
+   at SAP.Middleware.Connector.RfcDestination.get_SystemAttributes()
+   at SAP.Middleware.Connector.RfcRepository.GetRepositoryForDestination(RfcDestination destination)
+   at SAP.Middleware.Connector.RfcDestination.get_Repository()
+   at SAP.Middleware.Connector.RfcRepository.GetRepositoryForDestination(RfcDestination destination)
+   at SAP.Middleware.Connector.RfcDestination.get_Repository()
+   at DataBotV5.Automation.RPA.Delivery.CreateDelivery.ProcessDelivery() in C:\Users\kugalde\Documents\New folder\DataBotV5\Automation\RPA\Delivery\CreateDelivery.cs:line 84
+   at DataBotV5.Automation.RPA.Delivery.CreateDelivery.Main() in C:\Users\kugalde\Documents\New folder\DataBotV5\Automation\RPA\Delivery\CreateDelivery.cs:line 53
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at DataBotV5.App.ConsoleApp.Start.RunMethod(DataRow x, String enviroment) in C:\Users\kugalde\Documents\New folder\DataBotV5\App\ConsoleApp\Start.cs:line 244
+   at DataBotV5.App.ConsoleApp.Start.<>c__DisplayClass3_0.<Main>b__0(DataRow DataRow) in C:\Users\kugalde\Documents\New folder\DataBotV5\App\ConsoleApp\Start.cs:line 138
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at DataBotV5.App.ConsoleApp.Start.Main() in C:\Users\kugalde\Documents\New folder\DataBotV5\App\ConsoleApp\Start.cs:line 129
+
+**** Log file opened by process 34996 at 2024-03-01 09:53:00 (UTC-06:00 Central America Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.1.0.12 running on 32-bit .NET Framework 4.0.30319.42000
+Program: C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug\DataBotV5.exe
+Working directory: C:\Users\kugalde\Documents\New folder\DataBotV5\bin\Debug
+Operating system: Windows 10 Professional 64-bit 
+Processor: 8x AMD64 (or x64)
+SAP release: 753, Kernel release: 753, Kernel patch level: 727
+Hostname: T14-KUGALDE, IP address: 169.254.156.171, IP_v6 address: fe80::e1a3:42fa:f45b:2957
+
+Default trace level: None
+
+>> Error entry 2024-03-01 09:53:00.864 [Thread 1]
+Failure to create pool for destination NSP300 (ORIGINAL, user: null) [ASHOST=ecc-prod-app.gbm.net SYSNR=01 USER=rpauser PASSWD=******** CLIENT=300 LANG=EN SYSID=ECC NAME=NSP300]
+SAP.Middleware.Connector.RfcCommunicationException: 
+LOCATION    CPIC (TCP/IP) on local host T14-KUgalde with Unicode
+ERROR       hostname 'ecc-prod-app.gbm.net' unknown
+TIME        Fri Mar 01 09:53:00 2024
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      D:/depot/bas/753_REL/src/base/ni/ninti.c
+LINE        898
+DETAIL      NiPGetHostByName: 'ecc-prod-app.gbm.net' not found
+SYSTEM CALL getaddrinfo
+COUNTER     2
+
+RETURN CODE: 20
+   at SAP.Middleware.Connector.CpicConnection.ConnectAsClient(Dictionary`2 options, Boolean forRepository)
+   at SAP.Middleware.Connector.CpicDriver.ConnectAsClient(Dictionary`2 options, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+   at SAP.Middleware.Connector.RfcConnectionPool.GetPool(RfcDestination destination, Boolean forRepository, Boolean create)
+   at SAP.Middleware.Connector.RfcDestination.GetClient(Boolean forRepository)
+   at SAP.Middleware.Connector.RfcDestination.SetAttributeValues()
+   at SAP.Middleware.Connector.RfcDestination.get_SystemAttributes()
+   at SAP.Middleware.Connector.RfcRepository.GetRepositoryForDestination(RfcDestination destination)
+   at SAP.Middleware.Connector.RfcDestination.get_Repository()
+   at DataBotV5.Automation.RPA.Delivery.CreateDelivery.ProcessDelivery() in C:\Users\kugalde\Documents\New folder\DataBotV5\Automation\RPA\Delivery\CreateDelivery.cs:line 84
+   at DataBotV5.Automation.RPA.Delivery.CreateDelivery.Main() in C:\Users\kugalde\Documents\New folder\DataBotV5\Automation\RPA\Delivery\CreateDelivery.cs:line 53
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at DataBotV5.App.ConsoleApp.Start.RunMethod(DataRow x, String enviroment) in C:\Users\kugalde\Documents\New folder\DataBotV5\App\ConsoleApp\Start.cs:line 244
+   at DataBotV5.App.ConsoleApp.Start.<>c__DisplayClass3_0.<Main>b__0(DataRow DataRow) in C:\Users\kugalde\Documents\New folder\DataBotV5\App\ConsoleApp\Start.cs:line 138
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at DataBotV5.App.ConsoleApp.Start.Main() in C:\Users\kugalde\Documents\New folder\DataBotV5\App\ConsoleApp\Start.cs:line 129
+>> Error entry 2024-03-01 09:53:00.943 [Thread 1]
+[ASHOST=ecc-prod-app.gbm.net SYSNR=01 USER=rpauser PASSWD=******** CLIENT=300 LANG=EN SYSID=ECC NAME=NSP300]
+SAP.Middleware.Connector.RfcCommunicationException: 
+LOCATION    CPIC (TCP/IP) on local host T14-KUgalde with Unicode
+ERROR       hostname 'ecc-prod-app.gbm.net' unknown
+TIME        Fri Mar 01 09:53:00 2024
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      D:/depot/bas/753_REL/src/base/ni/ninti.c
+LINE        898
+DETAIL      NiPGetHostByName: 'ecc-prod-app.gbm.net' not found
+SYSTEM CALL getaddrinfo
+COUNTER     2
+
+RETURN CODE: 20
+   at SAP.Middleware.Connector.CpicConnection.ConnectAsClient(Dictionary`2 options, Boolean forRepository)
+   at SAP.Middleware.Connector.CpicDriver.ConnectAsClient(Dictionary`2 options, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+   at SAP.Middleware.Connector.RfcConnectionPool.GetPool(RfcDestination destination, Boolean forRepository, Boolean create)
+   at SAP.Middleware.Connector.RfcDestination.GetClient(Boolean forRepository)
+   at SAP.Middleware.Connector.RfcDestination.SetAttributeValues()
+   at SAP.Middleware.Connector.RfcDestination.get_SystemAttributes()
+   at SAP.Middleware.Connector.RfcRepository.GetRepositoryForDestination(RfcDestination destination)
+   at SAP.Middleware.Connector.RfcDestination.get_Repository()
+   at DataBotV5.Automation.RPA.Delivery.CreateDelivery.ProcessDelivery() in C:\Users\kugalde\Documents\New folder\DataBotV5\Automation\RPA\Delivery\CreateDelivery.cs:line 84
+   at DataBotV5.Automation.RPA.Delivery.CreateDelivery.Main() in C:\Users\kugalde\Documents\New folder\DataBotV5\Automation\RPA\Delivery\CreateDelivery.cs:line 53
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at DataBotV5.App.ConsoleApp.Start.RunMethod(DataRow x, String enviroment) in C:\Users\kugalde\Documents\New folder\DataBotV5\App\ConsoleApp\Start.cs:line 244
+   at DataBotV5.App.ConsoleApp.Start.<>c__DisplayClass3_0.<Main>b__0(DataRow DataRow) in C:\Users\kugalde\Documents\New folder\DataBotV5\App\ConsoleApp\Start.cs:line 138
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at DataBotV5.App.ConsoleApp.Start.Main() in C:\Users\kugalde\Documents\New folder\DataBotV5\App\ConsoleApp\Start.cs:line 129
+>> Error entry 2024-03-01 09:53:00.943 [Thread 1]
+SAP.Middleware.Connector.RfcCommunicationException: 
+LOCATION    CPIC (TCP/IP) on local host T14-KUgalde with Unicode
+ERROR       hostname 'ecc-prod-app.gbm.net' unknown
+TIME        Fri Mar 01 09:53:00 2024
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      D:/depot/bas/753_REL/src/base/ni/ninti.c
+LINE        898
+DETAIL      NiPGetHostByName: 'ecc-prod-app.gbm.net' not found
+SYSTEM CALL getaddrinfo
+COUNTER     2
+
+RETURN CODE: 20
+   at SAP.Middleware.Connector.CpicConnection.ConnectAsClient(Dictionary`2 options, Boolean forRepository)
+   at SAP.Middleware.Connector.CpicDriver.ConnectAsClient(Dictionary`2 options, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+   at SAP.Middleware.Connector.RfcConnectionPool.GetPool(RfcDestination destination, Boolean forRepository, Boolean create)
+   at SAP.Middleware.Connector.RfcDestination.GetClient(Boolean forRepository)
+   at SAP.Middleware.Connector.RfcDestination.SetAttributeValues()
+   at SAP.Middleware.Connector.RfcDestination.get_SystemAttributes()
+   at SAP.Middleware.Connector.RfcRepository.GetRepositoryForDestination(RfcDestination destination)
+   at SAP.Middleware.Connector.RfcDestination.get_Repository()
+   at DataBotV5.Automation.RPA.Delivery.CreateDelivery.ProcessDelivery() in C:\Users\kugalde\Documents\New folder\DataBotV5\Automation\RPA\Delivery\CreateDelivery.cs:line 84
+   at DataBotV5.Automation.RPA.Delivery.CreateDelivery.Main() in C:\Users\kugalde\Documents\New folder\DataBotV5\Automation\RPA\Delivery\CreateDelivery.cs:line 53
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at DataBotV5.App.ConsoleApp.Start.RunMethod(DataRow x, String enviroment) in C:\Users\kugalde\Documents\New folder\DataBotV5\App\ConsoleApp\Start.cs:line 244
+   at DataBotV5.App.ConsoleApp.Start.<>c__DisplayClass3_0.<Main>b__0(DataRow DataRow) in C:\Users\kugalde\Documents\New folder\DataBotV5\App\ConsoleApp\Start.cs:line 138
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at DataBotV5.App.ConsoleApp.Start.Main() in C:\Users\kugalde\Documents\New folder\DataBotV5\App\ConsoleApp\Start.cs:line 129
+>> Error entry 2024-03-01 09:53:02.424 [Thread 1]
+Failure to create pool for destination NSP300 (ORIGINAL, user: null) [ASHOST=ecc-prod-app.gbm.net SYSNR=01 USER=rpauser PASSWD=******** CLIENT=300 LANG=EN SYSID=ECC NAME=NSP300]
+SAP.Middleware.Connector.RfcCommunicationException: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       hostname 'ecc-prod-app.gbm.net' unknown
+TIME        Fri Mar 01 09:53:02 2024
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxhl.cpp
+LINE        198
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     4
+
+RETURN CODE: 20
+   at SAP.Middleware.Connector.CpicConnection.ConnectAsClient(Dictionary`2 options, Boolean forRepository)
+   at SAP.Middleware.Connector.CpicDriver.ConnectAsClient(Dictionary`2 options, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+   at SAP.Middleware.Connector.RfcConnectionPool.GetPool(RfcDestination destination, Boolean forRepository, Boolean create)
+   at SAP.Middleware.Connector.RfcDestination.GetClient(Boolean forRepository)
+   at SAP.Middleware.Connector.RfcDestination.SetAttributeValues()
+   at SAP.Middleware.Connector.RfcDestination.get_SystemAttributes()
+   at SAP.Middleware.Connector.RfcRepository.GetRepositoryForDestination(RfcDestination destination)
+   at SAP.Middleware.Connector.RfcDestination.get_Repository()
+   at SAP.Middleware.Connector.RfcRepository.GetRepositoryForDestination(RfcDestination destination)
+   at SAP.Middleware.Connector.RfcDestination.get_Repository()
+   at DataBotV5.Automation.RPA.Delivery.CreateDelivery.ProcessDelivery() in C:\Users\kugalde\Documents\New folder\DataBotV5\Automation\RPA\Delivery\CreateDelivery.cs:line 84
+   at DataBotV5.Automation.RPA.Delivery.CreateDelivery.Main() in C:\Users\kugalde\Documents\New folder\DataBotV5\Automation\RPA\Delivery\CreateDelivery.cs:line 53
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at DataBotV5.App.ConsoleApp.Start.RunMethod(DataRow x, String enviroment) in C:\Users\kugalde\Documents\New folder\DataBotV5\App\ConsoleApp\Start.cs:line 244
+   at DataBotV5.App.ConsoleApp.Start.<>c__DisplayClass3_0.<Main>b__0(DataRow DataRow) in C:\Users\kugalde\Documents\New folder\DataBotV5\App\ConsoleApp\Start.cs:line 138
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at DataBotV5.App.ConsoleApp.Start.Main() in C:\Users\kugalde\Documents\New folder\DataBotV5\App\ConsoleApp\Start.cs:line 129
+>> Error entry 2024-03-01 09:53:02.425 [Thread 1]
+[ASHOST=ecc-prod-app.gbm.net SYSNR=01 USER=rpauser PASSWD=******** CLIENT=300 LANG=EN SYSID=ECC NAME=NSP300]
+SAP.Middleware.Connector.RfcCommunicationException: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       hostname 'ecc-prod-app.gbm.net' unknown
+TIME        Fri Mar 01 09:53:02 2024
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxhl.cpp
+LINE        198
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     4
+
+RETURN CODE: 20
+   at SAP.Middleware.Connector.CpicConnection.ConnectAsClient(Dictionary`2 options, Boolean forRepository)
+   at SAP.Middleware.Connector.CpicDriver.ConnectAsClient(Dictionary`2 options, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+   at SAP.Middleware.Connector.RfcConnectionPool.GetPool(RfcDestination destination, Boolean forRepository, Boolean create)
+   at SAP.Middleware.Connector.RfcDestination.GetClient(Boolean forRepository)
+   at SAP.Middleware.Connector.RfcDestination.SetAttributeValues()
+   at SAP.Middleware.Connector.RfcDestination.get_SystemAttributes()
+   at SAP.Middleware.Connector.RfcRepository.GetRepositoryForDestination(RfcDestination destination)
+   at SAP.Middleware.Connector.RfcDestination.get_Repository()
+   at SAP.Middleware.Connector.RfcRepository.GetRepositoryForDestination(RfcDestination destination)
+   at SAP.Middleware.Connector.RfcDestination.get_Repository()
+   at DataBotV5.Automation.RPA.Delivery.CreateDelivery.ProcessDelivery() in C:\Users\kugalde\Documents\New folder\DataBotV5\Automation\RPA\Delivery\CreateDelivery.cs:line 84
+   at DataBotV5.Automation.RPA.Delivery.CreateDelivery.Main() in C:\Users\kugalde\Documents\New folder\DataBotV5\Automation\RPA\Delivery\CreateDelivery.cs:line 53
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at DataBotV5.App.ConsoleApp.Start.RunMethod(DataRow x, String enviroment) in C:\Users\kugalde\Documents\New folder\DataBotV5\App\ConsoleApp\Start.cs:line 244
+   at DataBotV5.App.ConsoleApp.Start.<>c__DisplayClass3_0.<Main>b__0(DataRow DataRow) in C:\Users\kugalde\Documents\New folder\DataBotV5\App\ConsoleApp\Start.cs:line 138
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at DataBotV5.App.ConsoleApp.Start.Main() in C:\Users\kugalde\Documents\New folder\DataBotV5\App\ConsoleApp\Start.cs:line 129
+>> Error entry 2024-03-01 09:53:02.425 [Thread 1]
+SAP.Middleware.Connector.RfcCommunicationException: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       hostname 'ecc-prod-app.gbm.net' unknown
+TIME        Fri Mar 01 09:53:02 2024
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxhl.cpp
+LINE        198
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     4
+
+RETURN CODE: 20
+   at SAP.Middleware.Connector.CpicConnection.ConnectAsClient(Dictionary`2 options, Boolean forRepository)
+   at SAP.Middleware.Connector.CpicDriver.ConnectAsClient(Dictionary`2 options, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+   at SAP.Middleware.Connector.RfcConnectionPool.GetPool(RfcDestination destination, Boolean forRepository, Boolean create)
+   at SAP.Middleware.Connector.RfcDestination.GetClient(Boolean forRepository)
+   at SAP.Middleware.Connector.RfcDestination.SetAttributeValues()
+   at SAP.Middleware.Connector.RfcDestination.get_SystemAttributes()
+   at SAP.Middleware.Connector.RfcRepository.GetRepositoryForDestination(RfcDestination destination)
+   at SAP.Middleware.Connector.RfcDestination.get_Repository()
+   at SAP.Middleware.Connector.RfcRepository.GetRepositoryForDestination(RfcDestination destination)
+   at SAP.Middleware.Connector.RfcDestination.get_Repository()
+   at DataBotV5.Automation.RPA.Delivery.CreateDelivery.ProcessDelivery() in C:\Users\kugalde\Documents\New folder\DataBotV5\Automation\RPA\Delivery\CreateDelivery.cs:line 84
+   at DataBotV5.Automation.RPA.Delivery.CreateDelivery.Main() in C:\Users\kugalde\Documents\New folder\DataBotV5\Automation\RPA\Delivery\CreateDelivery.cs:line 53
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at DataBotV5.App.ConsoleApp.Start.RunMethod(DataRow x, String enviroment) in C:\Users\kugalde\Documents\New folder\DataBotV5\App\ConsoleApp\Start.cs:line 244
+   at DataBotV5.App.ConsoleApp.Start.<>c__DisplayClass3_0.<Main>b__0(DataRow DataRow) in C:\Users\kugalde\Documents\New folder\DataBotV5\App\ConsoleApp\Start.cs:line 138
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at DataBotV5.App.ConsoleApp.Start.Main() in C:\Users\kugalde\Documents\New folder\DataBotV5\App\ConsoleApp\Start.cs:line 129
