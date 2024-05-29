@@ -36,19 +36,43 @@ namespace DataBotV5.Automation.ICS.ControlDesk
             cred.SelectCdMand("DEV");
 
 
-            List<string> cisList = new List<string>();
-            cisList.Add("CRI400A");
-            cisList.Add("CRI400B_PRIMA");
+            //List<string> cisList = new List<string>();
+            //cisList.Add("CRI400A");
+            //cisList.Add("CRI400B_PRIMA");
 
-            CdCollectionData collection = new CdCollectionData();
-            collection.CollectionNum = "EVCMI001";  
-            collection.Cis = cisList;
+            //CdCollectionData collection = new CdCollectionData();
+            //collection.CollectionNum = "EVCMI001";
+            //collection.Cis = cisList;
 
-            string XXX = cdi.AddCollectionCis(collection);
+            //string XXX = cdi.AddCollectionCis(collection);
+
+            CdCiSpecData ciSpec1 = new CdCiSpecData();
+            ciSpec1.AssetAttrId = "IP";
+            ciSpec1.CCiSumSpecValue = "172.19.251.250";
+
+            CdCiSpecData ciSpec2 = new CdCiSpecData();
+            ciSpec2.AssetAttrId = "HOSTNAME";
+            ciSpec2.CCiSumSpecValue = "IBM_8960_P64_HO_SWA";
+
+            List<CdCiSpecData> cdCiSpecDatas = new List<CdCiSpecData>();
+            cdCiSpecDatas.Add(ciSpec1);
+            cdCiSpecDatas.Add(ciSpec2);
 
             CdConfigurationItemData ci = new CdConfigurationItemData();
+            ci.CiName = "IBM_8960_P64_HO_SW";
+            ci.CiNum = "SSW40.PA.754754N";
+            ci.PersonId = "jbobadilla@gbm.net";
+            ci.Description = "IBM_8960_P64_HO_SWA";
+            ci.Status = "PRODUCTION";
+            ci.PmcCiImpact = "1";
+            ci.CiLocation = "PA.CDAH.HW";
+            ci.ClassStructureId = "1030";
+            ci.ServiceGroup = "OUTSOURCIN";
+            ci.Service = "30407";
+            ci.PluspCustomer = "0010000531";
+            ci.GbmAdministrator = "GBMOGS_COE_PLA_BACKUP/STORAGE";
+            ci.CiSpecs = cdCiSpecDatas;
             string csadsadas = cdi.CreateCi(ci);
-
 
 
 

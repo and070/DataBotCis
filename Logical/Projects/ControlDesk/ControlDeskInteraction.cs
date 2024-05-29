@@ -2060,11 +2060,11 @@ namespace DataBotV5.Logical.Projects.ControlDesk
         {
             #region collectDetailsPart
             string xmlCispecPart = "";
-            foreach (string ci in col.Cis)
+            foreach (CdCiSpecData ciSpec in ci.CiSpecs)
             {
                 xmlCispecPart += @"<CISPEC action=""Add"">";
-                xmlCispecPart += "<ASSETATTRID></ASSETATTRID>";
-                xmlCispecPart += "<CCISUMSPECVALUE></CCISUMSPECVALUE>";
+                xmlCispecPart += "<ASSETATTRID>" + ciSpec.AssetAttrId + "</ASSETATTRID>";
+                xmlCispecPart += "<CCISUMSPECVALUE>" + ciSpec.CCiSumSpecValue + "</CCISUMSPECVALUE>";
                 xmlCispecPart += "<SECTION> </SECTION>";
                 xmlCispecPart += "</CISPEC>";
             }
@@ -2076,18 +2076,18 @@ namespace DataBotV5.Logical.Projects.ControlDesk
             xml += @"<SyncMXAUTHCI xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance"" xmlns=""http://www.ibm.com/maximo"" baseLanguage=""EN"" transLanguage=""EN"">";
             xml += @"<MXAUTHCISet action=""Add"">";
             xml += @"<CI action=""Add"">";
-            xml += "<CINUM>"+ci.CiNum+"</CINUM>";
-            xml += "<CINAME>"+ci.CiName+"</CINAME>";
-            xml += "<DESCRIPTION>"+ci.Description+"</DESCRIPTION>";
-            xml += "<STATUS>"+ci.Status+"</STATUS>";
-            xml += "<PMCCIIMPACT>"+ci.PmcCiImpact+"</PMCCIIMPACT>";
-            xml += "<CILOCATION>"+ci.CiLocation+"</CILOCATION>";
-            xml += "<CLASSSTRUCTUREID>"+ci.ClassStructureId+"</CLASSSTRUCTUREID>";
-            xml += "<SERVICEGROUP>"+ci.ServiceGroup+"</SERVICEGROUP>";
-            xml += "<SERVICE>"+ci.Service+"</SERVICE>";
-            xml += "<PLUSPCUSTOMER>"+ci.PluspCustomer+"</PLUSPCUSTOMER>";
-            xml += "<PERSONID>"+ci.PersonId+"</PERSONID>";
-            xml += "<GBM_ADMINISTRATOR>"+ci.GbmAdministrator+"</GBM_ADMINISTRATOR>";
+            xml += "<CINUM>" + ci.CiNum + "</CINUM>";
+            xml += "<CINAME>" + ci.CiName + "</CINAME>";
+            xml += "<DESCRIPTION>" + ci.Description + "</DESCRIPTION>";
+            xml += "<STATUS>" + ci.Status + "</STATUS>";
+            xml += "<PMCCIIMPACT>" + ci.PmcCiImpact + "</PMCCIIMPACT>";
+            xml += "<CILOCATION>" + ci.CiLocation + "</CILOCATION>";
+            xml += "<CLASSSTRUCTUREID>" + ci.ClassStructureId + "</CLASSSTRUCTUREID>";
+            xml += "<SERVICEGROUP>" + ci.ServiceGroup + "</SERVICEGROUP>";
+            xml += "<SERVICE>" + ci.Service + "</SERVICE>";
+            xml += "<PLUSPCUSTOMER>" + ci.PluspCustomer + "</PLUSPCUSTOMER>";
+            xml += "<PERSONID>" + ci.PersonId + "</PERSONID>";
+            xml += "<GBM_ADMINISTRATOR>" + ci.GbmAdministrator + "</GBM_ADMINISTRATOR>";
             xml += xmlCispecPart;
             xml += "</CI>";
             xml += "</MXAUTHCISet>";
@@ -2096,7 +2096,7 @@ namespace DataBotV5.Logical.Projects.ControlDesk
 
             #endregion
 
-            string responseText = PostCD(root.UrlCd, "MXCOLLECTIONICS", xml);
+            string responseText = PostCD(root.UrlCd, "MXAUTHCI", xml);
 
             if (ValidateXml(responseText))
                 return "OK";
@@ -2443,7 +2443,7 @@ namespace DataBotV5.Logical.Projects.ControlDesk
         public string Service { get; set; }
         public string PluspCustomer { get; set; }
         public string GbmAdministrator { get; set; }
-        public List <CdCiSpecData> CiSpec { get; set; }
+        public List<CdCiSpecData> CiSpecs { get; set; }
     }
     public class CdCiSpecData
     {
