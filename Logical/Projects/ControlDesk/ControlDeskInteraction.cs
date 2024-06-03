@@ -2416,6 +2416,15 @@ namespace DataBotV5.Logical.Projects.ControlDesk
         public List<string> ManualServiceArray { get; set; }
         public List<string> EquipArray { get; set; }
         public List<string> CisArray { get; set; }
+        
+        public List<CdPriceSchedule> PriceSchedules { get; set; }
+    }
+
+  
+    public class CdPriceSchedule
+    {
+        public string PriceSchedule { get; set; }
+        public string SaNum { get; set; }
     }
     public class CdServicesData
     {
