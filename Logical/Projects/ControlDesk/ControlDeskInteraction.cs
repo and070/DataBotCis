@@ -539,6 +539,7 @@ namespace DataBotV5.Logical.Projects.ControlDesk
                     conInfo.ManualServiceArray = new List<string>();
                     conInfo.EquipArray = new List<string>();
                     conInfo.CisArray = new List<string>();
+                    conInfo.PriceSchedules = new List<CdPriceScheduleData>();
 
                     foreach (XmlElement contractFields in contract)
                     {
@@ -552,9 +553,19 @@ namespace DataBotV5.Logical.Projects.ControlDesk
                         if (contractFields.Name == "PLUSPAGREEMENTID") { conInfo.PluspAgreementId = contractFields.InnerText; }
                         if (contractFields.Name == "PLUSPPRICESCHED")
                         {
+                            CdPriceScheduleData cdPriceScheduleData = new CdPriceScheduleData();
+
                             XmlNode priceSchedules = contractFields;
                             foreach (XmlElement priceSchedulesFields in priceSchedules)
                             {
+                                if (priceSchedulesFields.Name == "SANUM")
+                                {
+                                    cdPriceScheduleData.SaNum = priceSchedulesFields.InnerText;
+                                }
+                                if (priceSchedulesFields.Name == "PRICESCHEDULE")
+                                {
+                                    cdPriceScheduleData.PriceSchedule = priceSchedulesFields.InnerText;
+                                }
                                 if (priceSchedulesFields.Name == "PLUSPAPPLSERV")
                                 {
                                     XmlNode services = priceSchedulesFields;
@@ -603,6 +614,7 @@ namespace DataBotV5.Logical.Projects.ControlDesk
                                     }
                                 }
                             }
+                            conInfo.PriceSchedules.Add(cdPriceScheduleData);
                         }
                     }
 
@@ -2109,6 +2121,40 @@ namespace DataBotV5.Logical.Projects.ControlDesk
 
         #region Métodos de Modificación
 
+        internal string AddCiContract(CdContractData contract)
+
+        {
+            #region collectDetailsPart
+            string xmlCollectDetailsPart = "";
+            foreach (string ci in col.Cis)
+            {
+                xmlCollectDetailsPart += "<COLLECTDETAILS>";
+                xmlCollectDetailsPart += "<CINUM>" + ci + "</CINUM>";
+                xmlCollectDetailsPart += "</COLLECTDETAILS>";
+            }
+            #endregion
+
+
+            #region Service XML Request
+            string xml = @"<?xml version=""1.0"" encoding=""utf-8""?>";
+            xml += @"<SyncMXCOLLECTIONICS xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance"" xmlns=""http://www.ibm.com/maximo"" baseLanguage=""EN"" transLanguage=""EN"">";
+            xml += "<MXCOLLECTIONICSSet>";
+            xml += @"<COLLECTION action=""AddChange"">";
+            xml += "<COLLECTIONNUM>" + col.CollectionNum + "</COLLECTIONNUM>";
+            xml += xmlCollectDetailsPart;
+            xml += "</COLLECTION>";
+            xml += "</MXCOLLECTIONICSSet>";
+            xml += "</SyncMXCOLLECTIONICS>";
+            #endregion
+
+            string responseText = PostCD(root.UrlCd, "MXCOLLECTIONICS", xml);
+
+            if (ValidateXml(responseText))
+                return "OK";
+            else
+                return responseText;
+        }
+
         #region Response Plans
         public string DeleteRpCommodity(string responsePlan, string pluspApplServId)
         {
@@ -2416,12 +2462,11 @@ namespace DataBotV5.Logical.Projects.ControlDesk
         public List<string> ManualServiceArray { get; set; }
         public List<string> EquipArray { get; set; }
         public List<string> CisArray { get; set; }
-        
-        public List<CdPriceSchedule> PriceSchedules { get; set; }
+        public List<CdPriceScheduleData> PriceSchedules { get; set; }
     }
 
   
-    public class CdPriceSchedule
+    public class CdPriceScheduleData
     {
         public string PriceSchedule { get; set; }
         public string SaNum { get; set; }

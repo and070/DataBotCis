@@ -6,6 +6,7 @@ using DataBotV5.Logical.Mail;
 using DataBotV5.Logical.MicrosoftTools;
 using DataBotV5.Logical.Processes;
 using DataBotV5.Logical.Projects.ControlDesk;
+using System.Collections;
 using System.Collections.Generic;
 using System.Data;
 
@@ -37,7 +38,11 @@ namespace DataBotV5.Automation.ICS.ControlDesk
 
             });
 
-            var ka = cdi.ParseContractXml(contract); //Agregar obtener el pluspPRICESCHEDULE
+            CdContractData ka = cdi.ParseContractXml(contract)[0];
+            ka.CisArray.Add("CRI400A");
+            ka.CisArray.Add("CRI400B_PRIMA");
+            string ciRes = cdi.AddCiContract(ka);
+
             //List<string> cisList = new List<string>();
             //cisList.Add("CRI400A");
             //cisList.Add("CRI400B_PRIMA");
