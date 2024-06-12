@@ -31,14 +31,11 @@ namespace DataBotV5.Automation.ICS.ControlDesk
 
             cred.SelectCdMand("DEV");
 
+
+            var contract = cdi.GetContractRevXml("8030000145", "6");
             
-            var contract = cdi.GetContractsXml(new List<string>
-            {
-                "8030000145"
-
-            });
-
             CdContractData ka = cdi.ParseContractXml(contract)[0];
+            ka.CisArray.Clear();
             ka.CisArray.Add("CRI400A");
             ka.CisArray.Add("CRI400B_PRIMA");
             string ciRes = cdi.AddCiContract(ka);

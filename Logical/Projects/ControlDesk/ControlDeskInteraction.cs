@@ -768,6 +768,23 @@ namespace DataBotV5.Logical.Projects.ControlDesk
 
             return infoXml;
         }
+
+        public string GetContractRevXml(string contract, string revision)
+        {
+            string infoXml = "";
+
+            string xml = @"<?xml version=""1.0"" encoding=""utf-8""?>";
+            xml += @"<QueryMXCUSTAGREEMENT xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance"" xmlns=""http://www.ibm.com/maximo"" baseLanguage=""EN"" transLanguage=""EN"" maxItems=""900"">";
+            xml += "<MXCUSTAGREEMENTQuery>";
+            xml += "<WHERE>agreement = " + contract + " and revisionnum = " + revision + "</WHERE>";
+            xml += "</MXCUSTAGREEMENTQuery>";
+            xml += "</QueryMXCUSTAGREEMENT>";
+
+            infoXml = PostCD(root.UrlCd, "MXCUSTAGREEMENT", xml);
+
+            return infoXml;
+        }
+
         #endregion
         #region Response Plans
         public string GetResponsePlanStatus(string idRp)
@@ -2125,29 +2142,42 @@ namespace DataBotV5.Logical.Projects.ControlDesk
 
         {
             #region collectDetailsPart
-            string xmlCollectDetailsPart = "";
-            foreach (string ci in col.Cis)
+            string xmlCiPart = "";
+            foreach (string ci in contract.CisArray)
             {
-                xmlCollectDetailsPart += "<COLLECTDETAILS>";
-                xmlCollectDetailsPart += "<CINUM>" + ci + "</CINUM>";
-                xmlCollectDetailsPart += "</COLLECTDETAILS>";
+                foreach (CdPriceScheduleData pSData in contract.PriceSchedules)
+                {
+                    xmlCiPart += "<PLUSPPRICESCHED action=\"AddChange\">";
+                    xmlCiPart += "<PRICESCHEDULE>" + pSData.PriceSchedule + "</PRICESCHEDULE>";
+                    xmlCiPart += "<PLUSPAPPLCI action=\"AddChange\">";
+                    xmlCiPart += "<OWNERID>" + pSData.SaNum + "</OWNERID>";
+                    xmlCiPart += "<CINUM>" + ci + "</CINUM>";
+                    xmlCiPart += "<OWNERTABLE>PLUSPPRICESCHED</OWNERTABLE>";
+                    xmlCiPart += "</PLUSPAPPLCI>";
+                    xmlCiPart += "</PLUSPPRICESCHED>";
+                }
+
             }
             #endregion
 
 
             #region Service XML Request
             string xml = @"<?xml version=""1.0"" encoding=""utf-8""?>";
-            xml += @"<SyncMXCOLLECTIONICS xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance"" xmlns=""http://www.ibm.com/maximo"" baseLanguage=""EN"" transLanguage=""EN"">";
-            xml += "<MXCOLLECTIONICSSet>";
-            xml += @"<COLLECTION action=""AddChange"">";
-            xml += "<COLLECTIONNUM>" + col.CollectionNum + "</COLLECTIONNUM>";
-            xml += xmlCollectDetailsPart;
-            xml += "</COLLECTION>";
-            xml += "</MXCOLLECTIONICSSet>";
-            xml += "</SyncMXCOLLECTIONICS>";
+            xml += @"<SyncMXCUSTAGREEMENT xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance"" xmlns=""http://www.ibm.com/maximo"" baseLanguage=""EN"" transLanguage=""EN"">";
+            xml += "<MXCUSTAGREEMENTSet action=\"AddChange\">";
+            xml += "<PLUSPAGREEMENT action=\"AddChange\">";
+            xml += "<AGREEMENT>" + contract.IdContract + "</AGREEMENT>";
+            //xml += "<DESCRIPTION>"+contract.Description+"</DESCRIPTION>";
+            xml += "<ORGID>GBM</ORGID>";
+            xml += "<REVISIONNUM>" + contract.Revision + "</REVISIONNUM>";
+            xml += xmlCiPart;
+            xml += "</PLUSPAGREEMENT>";
+            xml += "</MXCUSTAGREEMENTSet>";
+            xml += "</SyncMXCUSTAGREEMENT>";
+
             #endregion
 
-            string responseText = PostCD(root.UrlCd, "MXCOLLECTIONICS", xml);
+            string responseText = PostCD(root.UrlCd, "MXCUSTAGREEMENT", xml);
 
             if (ValidateXml(responseText))
                 return "OK";
@@ -2465,7 +2495,7 @@ namespace DataBotV5.Logical.Projects.ControlDesk
         public List<CdPriceScheduleData> PriceSchedules { get; set; }
     }
 
-  
+
     public class CdPriceScheduleData
     {
         public string PriceSchedule { get; set; }
